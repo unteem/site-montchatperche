@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3200px"
+   height="460px"
+   viewBox="0 0 3200 460"
+   zoomAndPan="disable"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="bottom2-3200.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.14937631"
+     inkscape:cx="407.81544"
+     inkscape:cy="251.47461"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <style
+     type="text/css"
+     id="style2"><![CDATA[
+		line { stroke-width: 1px; }
+		line.upper { stroke: rgba(224,224,224,0.75); }
+		line.lower { stroke: rgba(224,224,224,0.75); }
+		polygon.one { fill: #f8f8f8; }
+		polygon.two { fill: #ffffff; }
+    ]]></style>
+  <!-- Backgrounds -->
+  <!-- Lower lines -->
+  <!-- Upper Lines -->
+  <g
+     id="g843"
+     transform="rotate(180,1600,230)">
+    <polygon
+       id="polygon4"
+       class="one"
+       points="3200,50 3200,0 0,0 0,50 1600,410 "
+       style="fill:#f8f8f8" />
+    <polygon
+       style="fill:#412e4c;fill-opacity:1"
+       id="polygon6"
+       class="two"
+       points="3200,0 3200,0 0,0 1600,360 " />
+    <line
+       id="line10"
+       class="upper"
+       y2="0"
+       x2="3200"
+       y1="360"
+       x1="1600"
+       style="stroke-width:1px" />
+    <line
+       id="line12"
+       class="lower"
+       y2="460"
+       x2="1600"
+       y1="100"
+       x1="0"
+       style="stroke-width:1px" />
+    <line
+       id="line14"
+       class="lower"
+       y2="100"
+       x2="3200"
+       y1="460"
+       x1="1600"
+       style="stroke-width:1px" />
+  </g>
+</svg>
