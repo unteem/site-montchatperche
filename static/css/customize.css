@@ -1,6 +1,144 @@
+#header {
+    height: 680px;
+}
+
+.header-text {
+  margin-top: 6rem;
+}
+.section-services {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 10rem;
+    margin-left: 7rem;
+}
+.hex-color {
+    background-color: #117197;
+}
+
+.logo-accueil {
+    text-align: center;
+    background-color: white;
+}
+.logo-hero {
+    max-width: 30rem;
+}
+
+.hex-text {
+    bottom: 40%;
+    padding-top:40%;
+    right: 10%;
+    left:10%;
+    font-size: 1.5rem;
+    color: white;
+        }
+
+#header {
+    /* padding-top: 5rem; */
+    padding-top: 1rem;
+}
+/*
+#header img {
+    position: absolute;
+    left: 4rem;
+}
+*/
+
+.hidden {
+    display: none;
+}
+
+.navbar-menu {
+    background-color: #117197;
+}
+.navbar a {
+    text-decoration: none;
+    border: none;
+}
+.navbar {
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    z-index: 100;
+    transition: background-color 1s ease 0s;
+  }
+.navbar-item {
+    color: white;
+}
+.navbar-icons {
+    padding-top: 2.53rem;
+}
+.icon {
+    color: white;
+}
+.navbar-fixed-top {
+    top: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 30;
+}
+  
+  .navbar-default .navbar-brand {
+    margin-top: 10px;
+    color: white;
+  }
+  .navbar-default .navbar-brand:hover {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: white;
+    margin: 10px 5px 5px 5px;
+  }
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a:visited {
+    color: #C57ED3;
+    text-decoration: none;
+  }
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #117197;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    color: #C57ED3;
+    background-color: #C57ED3;
+  }
+  .navbar-default .navbar-collapse.collapse.in ul {
+    background-color: #117197;
+  }
+  
+  /* Solid class attached on scroll past first section */
+  .navbar.solid {
+    background-color: #117197;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0 0 4px grey;
+  }
+  .navbar.solid .navbar-brand {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+  .navbar.solid .navbar-nav > li > a {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+
+.navbar-item img {
+    max-height: 110px;
+  }
+  
 .actu img {
     width: 100%;
-    height: 200px;
+    height: 15rem;
 }
 .featured {
 	text-align: center;
@@ -34,7 +172,14 @@
 }
 
 .style-new {
-	background: #117197
+    background: #117197;
+}
+
+.blue {
+   background-color: rgb(17,113,151, 0.75) !important;
+   width: 50%;
+   position: relative;
+   margin-left: 25%;
 }
 
 /* Feature Icon */
@@ -118,7 +263,6 @@ footer {
     margin-bottom: 5em;
 }
 #bar {
-    background-attachment: scroll;
     background-image: url("images/bottom3-3200.svg");
     background-position: top center;
     background-repeat: repeat-x;
@@ -161,13 +305,11 @@ footer {
 }
 
 #foo {
-    background-attachment: scroll;
     background-image: url("images/top3-3200.svg");
     background-position: top center;
     background-repeat: repeat-x;
     background-size: 3200px 460px;
     color: rgba(255, 255, 255, 0.8);
-    bagr
     /*
         Since the SVG background occupies a lot of vertical space, we'll
         add additional top padding (to move our content out of its way)

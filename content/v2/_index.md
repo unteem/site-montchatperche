@@ -1,6 +1,6 @@
 ---
 title: Mon Titre
-tagline: "10 ans d'expérience au service de vos besoins: votre garantie sécurité pour vos entretiens"
+tagline: "10 ans d'experience au service de vos besoins: votre garantie securtite pour vos entretiens"
 services: 
   - name: Mise en sécurité et Urgence
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
@@ -42,18 +42,18 @@ mission:
   - name: La garantie sécurité
     details: Il s’agit de 15 ans d’expérience de travail sur corde. Réalisation de mode opératoire avant travaux. Accompagnement
     picto: fa-shield
-  - name: Notre <br> engagement
+  - name: Notre engagement
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     picto: fa-users
-  - name: Conseil et Renseignement
+  - name: Conseil et Renseignment
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     picto: fa-question-circle
 team:
-  - name: Paul Gregori
+  - name: Paul Machin
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/slack.jpg
     align: left
-  - name: Emilie Renaudier
+  - name: Emeline Machin
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/speleo.jpg
     align: right

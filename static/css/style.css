@@ -1,0 +1,366 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.navbar {
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    z-index: 100;
+    transition: background-color 1s ease 0s;
+  }
+  
+  .navbar-default .navbar-brand {
+    margin-top: 10px;
+    color: white;
+  }
+  .navbar-default .navbar-brand:hover {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: white;
+    margin: 10px 5px 5px 5px;
+  }
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a:visited {
+    color: #C57ED3;
+    text-decoration: none;
+  }
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #490D40;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    color: #C57ED3;
+    background-color: #C57ED3;
+  }
+  .navbar-default .navbar-collapse.collapse.in ul {
+    background-color: #490D40;
+  }
+  
+  /* Solid class attached on scroll past first section */
+  .navbar.solid {
+    background-color: #490D40;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0 0 4px grey;
+  }
+  .navbar.solid .navbar-brand {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+  .navbar.solid .navbar-nav > li > a {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+  
+
+/* Basic */
+
+/* Main */
+
+#main {
+    padding: 6em 0 5em 0;
+    position: relative;
+    z-index: 1;
+}
+
+    #main:before {
+        background: rgba(224, 224, 224, 0.75);
+        content: '';
+        height: 100%;
+        left: 50%;
+        position: absolute;
+        top: 0;
+        width: 1px;
+        z-index: -1;
+    }
+
+    #main header.major,
+    #main footer.major {
+        background: #ffffff;
+    }
+/* Header */
+
+#header {
+    background-attachment: scroll,	fixed;
+    background-image: url("images/top-3200.svg"), url("../images/bg2.jpg");
+    background-position: bottom center, top center;
+    background-repeat: repeat-x, no-repeat;
+    background-size: 3200px 460px, cover;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 10em 0 20em 0;
+    position: relative;
+    text-align: center;
+    height: 100%
+    
+
+}
+
+    #header:before, #header:after {
+        background: rgba(224, 224, 224, 0.75);
+        content: '';
+        left: 50%;
+        position: absolute;
+        width: 1px;
+        z-index: 0;
+    }
+
+    #header:before {
+        height: calc(100% - 60px);
+        opacity: 0.15;
+        top: 0;
+    }
+
+    #header:after {
+        bottom: 0;
+        height: 50px;
+    }
+
+    #header a {
+        border-bottom-color: rgba(255, 255, 255, 0.35);
+        color: rgba(255, 255, 255, 0.8);
+    }
+
+        #header a:hover {
+            border-bottom-color: transparent;
+            color: #4eb980;
+        }
+
+    #header strong, #header b {
+        color: #ffffff;
+    }
+
+    #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
+        color: #ffffff;
+    }
+
+    #header input[type="submit"],
+    #header input[type="reset"],
+    #header input[type="button"],
+    #header .button {
+        background: #ffffff;
+        color: #544d55;
+    }
+
+    #header .logo {
+        background: #4eb980;
+        border-radius: 100%;
+        color: #ffffff;
+        cursor: default;
+        display: inline-block;
+        font-size: 2.25em;
+        height: 2.35em;
+        line-height: 2.35em;
+        margin: 0 0 0.75em 0;
+        text-align: center;
+        width: 2.35em;
+    }
+
+        #header .logo.fa-paper-plane-o:before {
+            left: -0.075em;
+            position: relative;
+        }
+
+    #header h1 {
+        font-size: 2.5em;
+        margin: 0;
+    }
+
+    #header p {
+        font-size: 1.5em;
+        line-height: 1.5em;
+        margin: 0.25em 0 0 0;
+    }
+
+
+/* Section/Article */
+
+	header {
+		text-align: center;
+	}
+
+		header p {
+			position: relative;
+			top: -1em;
+			color: #888888;
+			text-transform: uppercase;
+			letter-spacing: 0.075em;
+		}
+
+		header.major {
+			border-bottom-width: 1px;
+			border-color: rgba(224, 224, 224, 0.75);
+			border-style: solid;
+			border-top-width: 1px;
+			margin-bottom: 6em;
+			padding: 4em 0;
+			position: relative;
+		}
+
+			header.major:before, header.major:after {
+				background: rgba(224, 224, 224, 0.75);
+				content: '';
+				display: block;
+				height: 1px;
+				left: 0;
+				position: absolute;
+				width: 100%;
+			}
+
+			header.major:before {
+				top: 10px;
+			}
+
+			header.major:after {
+				bottom: 10px;
+			}
+
+			header.major h2 {
+				margin: 0;
+			}
+
+			header.major p {
+				top: 0;
+				margin: 1.5em 0 0 0;
+				padding: 1.5em 1.5em 0 1.5em;
+				font-size: 1.5em;
+				line-height: 1.75em;
+				border-top: solid 1px rgba(224, 224, 224, 0.75);
+				display: inline-block;
+			}
+
+			header.major.last {
+				border-bottom: 0;
+				margin-bottom: 0;
+				padding-bottom: 0;
+			}
+
+				header.major.last:after {
+					display: none;
+				}
+
+				header.major.last h2 {
+					margin-bottom: 1em;
+				}
+
+
+
+/* Wide */
+
+@media screen and (max-width: 1680px) {
+
+/* Header */
+
+#header {
+    padding: 8em 0 16em 0;
+}
+
+    #header h1 {
+        font-size: 2.25em;
+    }
+
+    #header p {
+        font-size: 1.25em;
+        line-height: 1.65em;
+    }
+
+}
+
+
+/* Normal */
+
+@media screen and (max-width: 1280px) {
+    #header {
+        background-attachment: scroll,							scroll,							scroll;
+        background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("../images/bg.jpg");
+        background-size: 1600px 230px,					auto,							cover;
+        padding: 6em 0 12em 0;
+    }
+
+        #header:before {
+            height: calc(100% - 25px);
+        }
+
+        #header:after {
+            height: 25px;
+        }
+
+        #header h1 {
+            font-size: 2em;
+        }
+
+        #header p {
+            font-size: 1.15em;
+        }
+
+        #main {
+            padding: 4em 0 3em 0;
+        }
+    }
+
+/* Mobile */
+
+@media screen and (max-width: 736px) {
+
+    #header {
+        background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("../images/bg.jpg");
+        background-size: 1280px 184px,						auto,							cover;
+        padding: 3em 0 7em 0;
+    }
+
+        #header:before {
+            height: calc(100% - 20px);
+        }
+
+        #header:after {
+            height: 20px;
+        }
+
+        #header .logo {
+            font-size: 1.5em;
+        }
+
+        #header h1 {
+            font-size: 1.25em;
+        }
+
+        #header p {
+            font-size: 1em;
+        }
+
+    }
+        /* Mobile (Portrait) */
+
+	@media screen and (max-width: 480px) {
+
+		/* Header */
+
+			#header {
+				padding-left: 2em;
+				padding-right: 2em;
+			}
+
+				#header br {
+					display: none;
+				}
+            }

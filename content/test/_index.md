@@ -1,8 +1,8 @@
 ---
 title: Mon Titre
-tagline: "10 ans d'experience au service de vos besoins: votre garantie securtite pour vos entretiens"
+tagline: "10 ans d'expérience au service de vos besoins: votre garantie sécurité pour vos entretiens"
 services: 
-  - name: Securisation
+  - name: Sécurisation
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/goods/securisation-thumb.JPG
     align: left
@@ -49,11 +49,11 @@ mission:
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     picto: fa-question-circle
 team:
-  - name: Paul Machin
+  - name: Paul Gregori
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/slack.jpg
     align: left
-  - name: Emeline Machin
+  - name: Emilie Renaudier
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/speleo.jpg
     align: right
