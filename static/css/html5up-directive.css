@@ -1897,7 +1897,7 @@
 	section.special, article.special {
 		text-align: center;
 	}
-
+/*
 	header {
 		text-align: center;
 	}
@@ -1909,7 +1909,7 @@
 			text-transform: uppercase;
 			letter-spacing: 0.075em;
 		}
-
+*/
 		header.major {
 			border-bottom-width: 1px;
 			border-color: rgba(224, 224, 224, 0.75);
