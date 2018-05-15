@@ -40,3 +40,31 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   
   });
+
+  
+  $(".modal-button").click(function() {
+    var target = $(this).data("target");
+    console.log(target)
+    $("html").addClass("is-clipped");
+    $(target).addClass("is-active");
+    $('.navbar').addClass('hidden');
+    $('.navbar').removeClass('solid');
+  });
+  
+  $(".modal-close").click(function() {
+    $("html").removeClass("is-clipped");
+    $(this).parent().removeClass("is-active");
+  });
+
+/*
+  function toggleModalClasses(event) {
+    var modalId = event.currentTarget.dataset.modalId;
+    var modal = $(modalId);
+    modal.toggleClass('is-active');
+    $('html').toggleClass('is-clipped');
+  };
+
+$('.open-modal').click(toggleModalClasses);
+
+$('.close-modal').click(toggleModalClasses);
+*/

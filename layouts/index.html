@@ -1,28 +1,15 @@
-<!DOCTYPE HTML>
-<!--
-	Directive by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>MontChat Perche</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		
-	
-		<link rel="stylesheet" href="/css/navbar.css" />
-		<link rel="stylesheet" href="/css/html5up-directive.css" />
-		<link rel="stylesheet" href="/css/hexagons.css">
-		<link rel="stylesheet" href="/css/customize.css" />
-		
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-
+{{ partial "head.html" . }}
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+<script>
+  WebFont.load({
+	google: {
+	  families: ["Cookie:regular"]
+	}
+  });
+</script>
 	<body>	
 		{{ partial "navbar.html" . }}
-		{{ partial "header-hero.html" .}}
+		{{ partial "header-hero.html" . }}
 		<!-- Main -->
 		<div id="main">
 			<div class="logo-accueil">
@@ -38,25 +25,27 @@
 						{{ range .Params.services }}
 						<li class="hex">
 							<div class="hexIn">
-								<a class="hexLink" href="#">
+								<div class="hexLink" href="#">
 										<img src="{{.image}}" alt="" />
-									<h1>{{ .name }}</h1>
-									<p>Some sample text about the article this hexagon leads to</p>
-								</a>
+								</div>
 							</div>
 						</li>
 						<li class="hex hex-color">
 								<div class="hexIn hex-color">
-									<a class="hexLink hex-color" href="#">
-										<h2 class="hex-text">{{ .name }}</h2>
+									<div class="hexLink hex-color" href="#">
+											<div class="hex-text columns">
+												<h2 class="">{{ .name }}</h2>
+											</div>
+										<div class="hex-foot columns">
+												<a class="modal-button" data-target="#modal-{{.identifier}}">En savoir plus</a>
+										</div>	
 											
-										<h1>Titre</h1>
-										<p>Some sample text about the article this hexagon leads to</p>
-									</a>
+									</div>
 								</div>
 							</li>
 						{{ end }}
-						</ul>
+						</ul>	
+						{{ partial "modal.html" . }}					
 				</section>	
 				<div id="foo" class="style-new"></div>
 				<div class="dark style-new featured">
