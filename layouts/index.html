@@ -101,28 +101,36 @@
 					</div>
 				</section>
 				
-				<section class="main">
+				<section class="">
 					<footer class="major container 75%">
 						<h3>Une equipe de passionnes</h3>
 						<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
 					</footer>
-					
-					<div class="box alt container">
-						{{ range .Params.team }}
-						<section class="feature {{ .align }}">
-							<a href="#" class="image"><img src="{{ .image }}" alt="" /></a>
-							<div class="content">
-								<h3>{{ .name }}</h3>
-								<p>{{ .details }}</p>
+
+						<div class="box alt container">
+							<div class="row">
+								<div class="column is-3"></div>
+								<div class="column is-6 team-image">
+								<img class="image-circle" src="/images/speleo.jpg" alt="" />
+								</div>
+								<div class="column is-3 left">
+										<h3 class="left">Emilie Renaudier</h3>
+										<p class="left">Passionne de spelelogie, Emilie s'y connait en cordes.</p>
+									</div>
+								</div>
+								<div class="row row-team">
+										<div class="column is-3 right"><h3>Paul Gregori</h3>
+											<p>Professeur d'escalade et de slack, Paul n'a pas le vertige.</p></div>
+										<div class="column is-6 team-image">
+										<img class="image-circle" src="/images/slack.jpg" alt="" />
+										</div>
+										<div class="column is-3">
+												
+											</div>
+										</div>
 							</div>
-						</section>
-						{{ end }}
-					</div>
-				</section>
-
-				
-			</div>
-
+							</section>
+</div>
 		<!-- Footer -->
 		<div id="footer" class="main">
 			<div class="container 75%">
@@ -136,8 +144,7 @@
 					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 				</ul>
-				
-				<ul class="copyright">
+					</div><ul class="copyright">
 					<li>&copy; Copyleft motherfuckers</li><li>Design inspired by: <a href="http://html5up.net">HTML5 UP</a></li><li>Proudly hosted by: <a href="https://indie.host">IndieHosters</a></li>
 				</ul>
 			</div>
