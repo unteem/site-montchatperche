@@ -3,7 +3,9 @@
     src: url('/fonts/MTCORSVA.TTF'); /* IE9 Compat Modes */
 
   }
-
+actu .columns {
+    margin: 0
+}
 #header h1 {
     font-family: Corsiva;
     text-transform: capitalize;
@@ -56,12 +58,19 @@
     padding-left: 10rem;
  
 }
+
 .logo-accueil {
     text-align: center;
     background-color: white;
 }
+@media screen and (max-width: 768px) {
+    .logo-hero {
+        max-width: 20rem;
+    }
+  }
+
 .logo-hero {
-    max-width: 30rem;
+    width: 30rem;
 }
 
 .hex-text {

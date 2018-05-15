@@ -1,0 +1,27 @@
+<section class="section-services row">
+        <ul id="hexGrid">
+            {{ range .Params.services }}
+            <li class="hex">
+                <div class="hexIn">
+                    <div class="hexLink" href="#">
+                            <img src="{{.image}}" alt="" />
+                    </div>
+                </div>
+            </li>
+            <li class="hex hex-color">
+                    <div class="hexIn hex-color">
+                        <div class="hexLink hex-color" href="#">
+                                <div class="hex-text columns">
+                                    <h2 class="">{{ .name }}</h2>
+                                </div>
+                            <div class="hex-foot columns">
+                                    <a class="modal-button" data-target="#modal-{{.identifier}}">En savoir plus</a>
+                            </div>	
+                                
+                        </div>
+                    </div>
+                </li>
+            {{ end }}
+            </ul>	
+            {{ partial "modal.html" . }}					
+    </section>	
