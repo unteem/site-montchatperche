@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: unteem//site-montchatperche # Path to your GitHub repository
+  repo: unteem/site-montchatperche # Path to your GitHub repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow

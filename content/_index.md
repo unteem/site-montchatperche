@@ -38,7 +38,7 @@ services:
     align: right
     weight: 5
     identifier: volatiles
-  - name: Evénementiel
+  - name: Evénements <br> et <br> Manifestations
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     image: /images/goods/2018-thumb.JPG
     picto: /images/picto/autres.svg
