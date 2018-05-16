@@ -1,0 +1,456 @@
+@font-face {
+    font-family: 'Corsiva';
+    src: url('/fonts/MTCORSVA.TTF'); /* IE9 Compat Modes */
+
+  }
+
+
+  .is-clipped {
+    overflow: hidden !important;
+  }
+
+  /*
+.right {
+    text-align: right;
+    position: relative;
+    right: -6rem;
+}
+
+.left {
+    text-align: left;
+    position: relative;
+    left: -3rem;
+}
+*/
+
+#header {
+    /* padding-top: 5rem; */
+    padding-top: 1rem;
+}
+
+/*
+#header img {
+    position: absolute;
+    left: 4rem;
+}
+*/
+
+#header h1 {
+    font-family: Corsiva;
+    text-transform: capitalize;
+    font-size: 4rem;
+}
+
+
+.row-team {
+    position: relative;
+    top: -40px;
+}
+#header {
+    height: 680px;
+}
+
+.header-text {
+  margin-top: 6rem;
+}
+
+.section-services {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 10rem;
+    margin-left: 7rem;
+}
+
+.image-circle {
+    border-radius: 50%;
+    height: 200px!important;
+    width: 200px!important;
+    position: relative;
+}
+
+.team-image {
+    padding-left: 10rem;
+ 
+}
+
+.logo-accueil {
+    text-align: center;
+    background-color: white;
+}
+
+/* Hero Banner */
+
+@media screen and (max-width: 768px) {
+    .logo-hero {
+        max-width: 20rem;
+    }
+  }
+
+.logo-hero {
+    width: 30rem;
+}
+
+
+
+/* hexagons */
+.hex-text {
+    top: 28%;
+    left: 28%;
+    right: 28%;
+}
+.hex-text h2 {
+    font-size: 1.3rem;
+    color: white;
+}
+
+.hex-foot {
+    font-size: 1rem;
+    width: 100%;
+    top: 80%;
+    left: 33.33%;
+    right: 33.33%;
+}
+
+.hex-color {
+    background-color: #117197;
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar-menu {
+    background-color: #117197;
+}
+.navbar a {
+    text-decoration: none;
+    border: none;
+}
+.navbar {
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    z-index: 100;
+    transition: background-color 1s ease 0s;
+  }
+.navbar-item {
+    color: white;
+}
+.navbar-icons {
+    padding-top: 2.53rem;
+}
+.icon {
+    color: white;
+}
+.navbar-fixed-top {
+    top: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 30;
+}
+  
+  .navbar-default .navbar-brand {
+    margin-top: 10px;
+    color: white;
+  }
+  .navbar-default .navbar-brand:hover {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: white;
+    margin: 10px 5px 5px 5px;
+  }
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
+    color: #C57ED3;
+    border: 1px solid #C57ED3;
+  }
+  .navbar-default .navbar-nav > li > a:visited {
+    color: #C57ED3;
+    text-decoration: none;
+  }
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: #C57ED3;
+  }
+  .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #117197;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    color: #C57ED3;
+    background-color: #C57ED3;
+  }
+  .navbar-default .navbar-collapse.collapse.in ul {
+    background-color: #117197;
+  }
+  
+  /* Solid class attached on scroll past first section */
+  .navbar.solid {
+    background-color: #117197;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0 0 4px grey;
+  }
+  .navbar.solid .navbar-brand {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+  .navbar.solid .navbar-nav > li > a {
+    color: #C57ED3;
+    transition: color 1s ease 0s;
+  }
+
+.navbar-item img {
+    max-height: 110px;
+  }
+  
+.featured {
+	text-align: center;
+}
+
+.featured p {
+	text-align: center;
+}
+
+.dark {
+    color: #aaa;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: #fff;
+}
+
+.dark strong, .dark b {
+    color: #fff;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.dark a {
+    color: #fff;
+    border-bottom-color: rgba(255, 255, 255, 0.5);
+}
+
+.dark a:hover {
+    border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+.style-new {
+    background: #117197;
+}
+
+.blue {
+   background-color: rgb(17,113,151, 0.75) !important;
+   width: 50%;
+   position: relative;
+   margin-left: 25%;
+}
+
+/* Feature Icon */
+
+.feature-icon {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 5em;
+    margin-bottom: 2.75em;
+    cursor: default;
+}
+
+    .feature-icon .icon {
+        display: inline-block;
+        width: 2em;
+        height: 2em;
+        font-size: 4.5em;
+        border-radius: 100%;
+        box-shadow: inset 0 0 0 1px #666;
+        color: #666;
+        line-height: 2.1em;
+    }
+
+    .feature-icon:before {
+        content: '';
+        background: #666;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        margin-left: -0.325em;
+        width: 0.65em;
+        height: 0.65em;
+        display: block;
+        border-radius: 100%;
+    }
+
+    .feature-icon:after {
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: 0.65em;
+        width: 1px;
+        height: 4.35em;
+        background: #666;
+        margin-left: -0.5px;
+    }
+
+.dark .feature-icon .icon {
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+    color: #fff;
+}
+
+.dark .feature-icon:before, .dark .feature-icon:after {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+/* Icons */
+
+.icon {
+    text-decoration: none;
+}
+
+    .icon:before {
+        display: inline-block;
+        font-family: FontAwesome;
+        font-size: 1.25em;
+        text-decoration: none;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .icon > .label {
+        display: none;
+    }
+
+footer {
+    margin-bottom: 5em;
+}
+#bar {
+    background-image: url("images/bottom3-3200.svg");
+    background-position: top center;
+    background-repeat: repeat-x;
+    background-size: 3200px 460px;
+    color: rgba(255, 255, 255, 0.8);
+    /*
+        Since the SVG background occupies a lot of vertical space, we'll
+        add additional top padding (to move our content out of its way)
+        and a negative margin (to move everything up a bit).
+    */
+
+    margin-top: 10px;
+    padding: 250px 0 210px 0;
+    position: relative;
+    top: -11em;
+    text-align: center;
+    z-index: -1;
+}
+
+#bar:after {
+    height: 25px;
+    z-index: 100;
+}
+
+#bar:before {
+    background: rgba(224, 224, 224, 0.75);
+    content: '';
+    height: 100px;
+    left: 50%;
+    position: absolute;
+    bottom: 2px;
+    width: 1px;
+    z-index: 0;
+}
+
+#foo {
+    background-image: url("images/top3-3200.svg");
+    background-position: top center;
+    background-repeat: repeat-x;
+    background-size: 3200px 460px;
+    color: rgba(255, 255, 255, 0.8);
+    /*
+        Since the SVG background occupies a lot of vertical space, we'll
+        add additional top padding (to move our content out of its way)
+        and a negative margin (to move everything up a bit).
+    */
+
+    margin-top: 1px;
+    padding: 5em 0 10em 0;
+    position: relative;
+    text-align: center;
+}
+
+    #foo:before {
+        background: rgba(224, 224, 224, 0.75);
+        content: '';
+        height: 100px;
+        left: 50%;
+        position: absolute;
+        top: 0;
+        width: 1px;
+        z-index: 0;
+    }
+
+    #foo a {
+        color: #ffffff;
+    }
+
+    #foo strong, #foo b {
+        color: #ffffff;
+    }
+
+    #foo h1, #foo h2, #foo h3, #foo h4, #foo h5, #foo h6 {
+        color: #ffffff;
+    }
+
+    #foo header p {
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+    header.minor {
+        border-bottom-width: 1px;
+        border-color: rgba(224, 224, 224, 0.75);
+        border-top-style: solid;
+        border-top-width: 1px;
+        margin-bottom: 6em;
+        padding: 3em 0;
+        position: relative;
+        top: -5em;
+        background: white;
+    }
+
+        header.minor:before {
+            background: rgba(224, 224, 224, 0.75);
+            content: '';
+            display: block;
+            height: 1px;
+            left: 0;
+            position: absolute;
+            width: 100%;
+        }
+
+        header.minor:before {
+            top: 10px;
+        }
+
+/* Section Actu */
+.section-actu {
+    padding-bottom: 8rem;
+    margin-top: -2rem;
+}
+
+.actu img {
+    margin-top: -10rem;
+    width: 100%;
+    height: 15rem;
+}
+
+@media screen and (max-width: 768px) {
+    .actu {
+        margin-bottom: 10rem;
+    }
+  }

@@ -3,17 +3,13 @@
     src: url('/fonts/MTCORSVA.TTF'); /* IE9 Compat Modes */
 
   }
-actu .columns {
-    margin: 0
-}
-#header h1 {
-    font-family: Corsiva;
-    text-transform: capitalize;
-    font-size: 4rem;
-}
-.is-clipped {
+
+
+  .is-clipped {
     overflow: hidden !important;
   }
+
+  /*
 .right {
     text-align: right;
     position: relative;
@@ -25,6 +21,26 @@ actu .columns {
     position: relative;
     left: -3rem;
 }
+*/
+
+#header {
+    /* padding-top: 5rem; */
+    padding-top: 1rem;
+}
+
+/*
+#header img {
+    position: absolute;
+    left: 4rem;
+}
+*/
+
+#header h1 {
+    font-family: Corsiva;
+    text-transform: capitalize;
+    font-size: 4rem;
+}
+
 
 .row-team {
     position: relative;
@@ -37,14 +53,12 @@ actu .columns {
 .header-text {
   margin-top: 6rem;
 }
+
 .section-services {
     padding-top: 2rem;
     padding-bottom: 2rem;
     margin-bottom: 10rem;
     margin-left: 7rem;
-}
-.hex-color {
-    background-color: #117197;
 }
 
 .image-circle {
@@ -63,6 +77,9 @@ actu .columns {
     text-align: center;
     background-color: white;
 }
+
+/* Hero Banner */
+
 @media screen and (max-width: 768px) {
     .logo-hero {
         max-width: 20rem;
@@ -73,6 +90,9 @@ actu .columns {
     width: 30rem;
 }
 
+
+
+/* hexagons */
 .hex-text {
     top: 28%;
     left: 28%;
@@ -91,16 +111,9 @@ actu .columns {
     right: 33.33%;
 }
 
-#header {
-    /* padding-top: 5rem; */
-    padding-top: 1rem;
+.hex-color {
+    background-color: #117197;
 }
-/*
-#header img {
-    position: absolute;
-    left: 4rem;
-}
-*/
 
 .hidden {
     display: none;
@@ -195,10 +208,6 @@ actu .columns {
     max-height: 110px;
   }
   
-.actu img {
-    width: 100%;
-    height: 15rem;
-}
 .featured {
 	text-align: center;
 }
@@ -341,12 +350,6 @@ footer {
     z-index: -1;
 }
 
-.actu {
-    background: white;
-    z-index: 100
-}
-
-
 #bar:after {
     height: 25px;
     z-index: 100;
@@ -434,6 +437,20 @@ footer {
             top: 10px;
         }
 
+/* Section Actu */
 .section-actu {
-    margin-top: -13em
+    padding-bottom: 8rem;
+    margin-top: -2rem;
 }
+
+.actu img {
+    margin-top: -10rem;
+    width: 100%;
+    height: 15rem;
+}
+
+@media screen and (max-width: 768px) {
+    .actu {
+        margin-bottom: 10rem;
+    }
+  }
