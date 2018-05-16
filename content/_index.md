@@ -51,7 +51,7 @@ mission:
     picto: fa-shield
   - name: Notre <br> engagement
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
-    picto: fa-users
+    picto: /images/onepercentwhite.png
   - name: Conseil et Renseignement
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     picto: fa-question-circle
