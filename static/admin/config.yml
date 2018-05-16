@@ -1,18 +1,18 @@
 backend:
   name: git-gateway
-  repo: unteem/site-montchatperche # Path to your GitHub repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
 
 media_folder: "static/images/" # Folder where user uploaded files should go
-public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "images" # The src attribute for uploaded media will begin with /images/uploads
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "Home" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Home" # Used in the UI, ie.: "New Post"
+  - name: "Pages" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Page" # Used in the UI, ie.: "New Post"
     files:
       - file: "content/_index.md" # The path to the folder where the documents are stored
+        name: "Page Acccueil"
         fields:
           - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
           - {label: "Tag Line", name: "tagline", widget: "string"}
