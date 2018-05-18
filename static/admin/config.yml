@@ -34,5 +34,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Picto", name: "picto", widget: "string"}]}
           - {label: "Equipe", name: "team", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
-              {label: "Details", name: "details", widget: "markown"},
+              {label: "Details", name: "details", widget: "markdown"},
               {label: "Image", name: "image", widget: "image"}]}
