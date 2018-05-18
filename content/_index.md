@@ -1,86 +1,88 @@
 ---
 title: Mon Titre
-tagline: "10 ans d'expérience au service de vos besoins: votre garantie sécurité pour vos entretiens"
-services: 
-  - name: Mise en sécurité et Urgence
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+tagline: >-
+  10 ans d'expérience au service de vos besoins: votre garantie sécurité pour
+  vos entretiens
+services:
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Mise en sécurité et Urgence
     thumbnail: /images/new/mise-en-securite-urgence.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: secu
-  - name: Recherche de fuites
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    gallery:
+      - image: /images/P1130016-30.jpg
+    name: Recherche de fuites
     thumbnail: /images/goods/fuites-thumb.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: fuites
-  - name: Zinguerie
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
-    thumbnail: /images/new/zinguerie.JPG
-    identifier: zinguerie
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-  - name: Travaux de réparation
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+    name: Zinguerie
     thumbnail: /images/new/zinguerie.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: reparation
-  - name: Entretien Toiture
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Travaux de réparation
+    thumbnail: /images/new/zinguerie.JPG
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Entretien Toiture
     thumbnail: /images/new/entretien-toiture.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: toiture
-  - name: Dispositifs anti-volatiles
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Dispositifs anti-volatiles
     thumbnail: /images/new/anti-volatiles.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: volatiles
-  - name: Evénements <br> et <br> Manifestations
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Evénements <br> et <br> Manifestations
     thumbnail: /images/goods/2018-thumb.JPG
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-    identifier: evenement
 mission:
-  - name: La garantie sécurité
-    details: Il s’agit de 15 ans d’expérience de travail sur corde. Réalisation de mode opératoire avant travaux. Accompagnement
+  - details: >-
+      Il s’agit de 15 ans d’expérience de travail sur corde. Réalisation de mode
+      opératoire avant travaux. Accompagnement
+    name: La garantie sécurité
     picto: fa-shield
-  - name: Notre <br> engagement
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Notre <br> engagement
     picto: /images/onepercentwhite.png
-  - name: Conseil et Renseignement
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
+    name: Conseil et Renseignement
     picto: fa-question-circle
 team:
-  - name: Paul Gregori
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
     image: /images/slack.jpg
-    align: left
-  - name: Emilie Renaudier
-    details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+    name: Paul Gregori
+  - details: >-
+      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
+      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
+      eget. Nunc nibh morbi quis fusce lacus.
     image: /images/speleo.jpg
-    align: right
+    name: Emilie Renaudier
 ---
+
