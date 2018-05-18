@@ -1,0 +1,22 @@
+{{ partial "head-pages.html" . }}
+{{ partial "navbar-pages.html" . }}
+
+<div id="main-2">
+<section class="section">
+<div class="container">
+          <div class="content">
+            <h1 class="title">
+              Primary bold title
+            </h1>
+            <h2 class="subtitle">
+              Primary bold subtitle
+            </h2>
+            <figure class="image image-article">
+                <img src="/images/triporteur.jpg">
+            </figure>
+            {{ .Content }}
+        </div>
+        </div>
+      </section>
+    </div>
+{{ partial "foot.html" . }}
