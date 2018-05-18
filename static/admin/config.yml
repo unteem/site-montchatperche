@@ -16,13 +16,13 @@ collections: # A list of collections the CMS should be able to edit
         label: "Accueil"
         fields:
           - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-          - {label: "Tag Line", name: "tagline", widget: "string"}
+          - {label: "Tag Line", name: "subtitle", widget: "string"}
           - label: "Services"
             name: "services"
             widget: "list"
             fields:
               - {label: "Nom", name: "name", widget: "string"}
-              - {label: "Details", name: "details", widget: "string"}
+              - {label: "Details", name: "details", widget: "markdown"}
               - {label: "Thumbnail", name: "thumbnail", widget: "image"}
               - label: "Gallerie"
                 name: "gallery"
@@ -31,9 +31,9 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "image", name: "image", widget: "image"}
           - {label: "Mission", name: "mission", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
-              {label: "Details", name: "details", widget: "string"},
+              {label: "Details", name: "details", widget: "text"},
               {label: "Picto", name: "picto", widget: "string"}]}
           - {label: "Equipe", name: "team", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
-              {label: "Details", name: "details", widget: "string"},
+              {label: "Details", name: "details", widget: "text"},
               {label: "Image", name: "image", widget: "image"}]}
