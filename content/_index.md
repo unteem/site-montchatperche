@@ -1,7 +1,6 @@
 ---
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> Travaux en Hauteur
-tagline: "10 ans d'expérience au service de vos besoins: votre garantie sécurité pour vos entretiens"
 services: 
   - name: Mise en sécurité et Urgence
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
