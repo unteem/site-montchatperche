@@ -1,5 +1,5 @@
 ---
-title: Monchat Perché test
+title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
   - details: >-
