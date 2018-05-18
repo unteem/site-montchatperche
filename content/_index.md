@@ -11,6 +11,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: secu
     name: Mise en sécurité et Urgence
     thumbnail: /images/new/mise-en-securite-urgence.JPG
   - details: >-
@@ -22,6 +23,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: fuite
     name: Recherche de fuites
     thumbnail: /images/goods/fuites-thumb.JPG
   - details: >-
@@ -33,6 +35,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: zinguerie
     name: Zinguerie
     thumbnail: /images/new/zinguerie.JPG
   - details: >-
@@ -44,6 +47,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: reparation
     name: Travaux de réparation
     thumbnail: /images/new/zinguerie.JPG
   - details: >-
@@ -55,6 +59,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: toiture
     name: Entretien Toiture
     thumbnail: /images/new/entretien-toiture.JPG
   - details: >-
@@ -65,6 +70,7 @@ services:
       - image: images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
+    identifier: volatile
     name: Dispositifs anti-volatiles
     thumbnail: /images/new/anti-volatiles.JPG
   - details: >-
@@ -76,7 +82,8 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-    name: Evénements <br> et <br> Manifestations
+    identifier: surmesure
+    name: Sur mesure
     thumbnail: /images/goods/2018-thumb.JPG
 mission:
   - details: >-
