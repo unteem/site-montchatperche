@@ -12,15 +12,15 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages" # Used in the UI, ie.: "New Post"
     files:
       - file: "/content/_index.md" # The path to the folder where the documents are stored
-        name: "Page Acccueil"
-        label: "Page Accueil"
+        name: "Acccueil"
+        label: "Accueil"
         fields:
           - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
           - {label: "Tag Line", name: "tagline", widget: "string"}
           - {label: "Services", name: "services", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
               {label: "Details", name: "details", widget: "string"},
-              {label: "Image", name: "image", widget: "image"}]}
+              {label: "Thumbnail", name: "thumbnail", widget: "image"},]}
           - {label: "Mission", name: "mission", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
               {label: "Details", name: "details", widget: "string"},
