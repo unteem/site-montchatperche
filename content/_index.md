@@ -24,11 +24,11 @@ services:
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     thumbnail: /images/new/zinguerie.JPG
     identifier: zinguerie
-    images:
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
-      - /images/new/mise-en-securite-urgence.JPG
+    gallery:
+      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/mise-en-securite-urgence.JPG
   - name: Travaux de réparation
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     thumbnail: /images/new/zinguerie.JPG
