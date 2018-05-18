@@ -23,11 +23,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Nom", name: "name", widget: "string"}
               - {label: "Details", name: "details", widget: "markdown"}
               - {label: "Thumbnail", name: "thumbnail", widget: "image"}
-              - label: "Gallerie"
-                name: "gallery"
-                widget: list
-                fields: 
-                  - {label: "image", name: "image", widget: "image"}
+              
           - {label: "Mission", name: "mission", widget: "list", fields: [
               {label: "Nom", name: "name", widget: "string"},
               {label: "Details", name: "details", widget: "markdown"},
