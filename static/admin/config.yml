@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sous-titre", name: "subtitle", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Contenu", name: "content", widget: "markdown"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Pages" # Used in the UI, ie.: "New Post"
     files:
