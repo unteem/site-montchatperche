@@ -22,6 +22,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Nom", name: "name", widget: "string"}
               - {label: "Details", name: "details", widget: "markdown"}
               - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+              - {label: "Identifiant", name: "identifier", widget: "string"}
               - label: "Gallerie"
                 name: "gallery"
                 widget: list
