@@ -2,10 +2,20 @@
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
-  - details: >-
-      Sondage Vitae natoque dictum etiam semper magnis enim feugiat amet
-      curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam
-      vivamus eget. Nunc nibh morbi quis fusce lacus.
+  - details: |-
+      SECURISATION
+
+      Dépose d'antennes menaçante
+
+      Remise en place de tuiles
+
+      Sécurisation conduits de cheminée
+
+      MESURES CONSERVATOIRES
+
+      Pose de filets pare-gravats
+
+      Pose de bâche
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
