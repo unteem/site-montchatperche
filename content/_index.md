@@ -2,18 +2,28 @@
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
-  - details: |-
+  - details: >-
       SECURISATION
 
-      Dépose d'antennes menaçante
+
+      Refixation ou dépose d'éléments présentant un risque de chute en toiture
+      ou au sol
+
+
+      Dépose d'antennes 
+
 
       Remise en place de tuiles
 
+
       Sécurisation conduits de cheminée
+
 
       MESURES CONSERVATOIRES
 
+
       Pose de filets pare-gravats
+
 
       Pose de bâche
     gallery:
