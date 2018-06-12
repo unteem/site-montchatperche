@@ -1,7 +1,7 @@
 ---
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> Travaux en Hauteur
-services: 
+services:
   - name: Mise en sécurité et Urgence
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     thumbnail: /images/new/mise-en-securite-urgence.JPG
@@ -67,13 +67,13 @@ services:
 mission:
   - name: La garantie sécurité
     details: Il s’agit de 15 ans d’expérience de travail sur corde. Réalisation de mode opératoire avant travaux. Accompagnement
-    picto: fa-shield
+    picto: /images/shield.png
   - name: Notre <br> engagement
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
     picto: /images/onepercentwhite.png
   - name: Conseil et Renseignement
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
-    picto: fa-question-circle
+    picto: /images/question.png
 team:
   - name: Paul Gregori
     details: Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.

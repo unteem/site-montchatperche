@@ -29,8 +29,15 @@
   .is-clipped {
     overflow: hidden !important;
   }
+.is-circle {
+  border-radius: 50%;
+}
 
-  
+.text-center {
+  text-align: center;
+}
+
+
   /*
 .right {
     text-align: right;
@@ -80,7 +87,12 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
     margin-bottom: 10rem;
-    margin-left: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-services ul {
+  padding: 0;
+  margin: 0
 }
 
 
@@ -93,7 +105,7 @@
 
 .team-image {
     padding-left: 10rem;
- 
+
 }
 
 .logo-accueil {
@@ -102,15 +114,15 @@
 }
 @media screen and (max-width: 768px) {
     .section-engagement {
-        margin-left: -15px;
-        margin-right: -15px;
+        margin-left: auto;
+        margin-right: auto;
     }
   }
 
   @media screen and (max-width: 768px) {
     #hexGrid {
-        margin-left: -20%;
-        margin-right: 0px;
+        margin-left: auto;
+        margin-right: auto;
     }
   }
 
@@ -118,7 +130,9 @@
 
 @media screen and (max-width: 768px) {
     .logo-hero {
-        max-width: 240px;
+        max-width: 300px;
+        margin-top: -3rem;
+        margin-bottom: 2rem;
     }
   }
 
@@ -146,7 +160,7 @@
   }
   @media screen and (max-width: 768px) {
     .hex-text h2 {
-        font-size: 0.6rem;
+        font-size: 1rem;
         color: white;
     }
     .hex-foot {
@@ -163,7 +177,7 @@
         visibility: hidden
     }
     .modal-card-body {
-        
+
     }
   }
 
@@ -215,7 +229,7 @@
     right: 0;
     z-index: 30;
 }
-  
+
   .navbar-default .navbar-brand {
     margin-top: 10px;
     color: white;
@@ -253,7 +267,7 @@
   .navbar-default .navbar-collapse.collapse.in ul {
     background-color: #117197;
   }
-  
+
   /* Solid class attached on scroll past first section */
   .navbar.solid {
     background-color: #117197;
@@ -272,7 +286,7 @@
 .navbar-item img {
     max-height: 110px;
   }
-  
+
 .featured {
 	text-align: center;
 }
@@ -359,6 +373,12 @@
         background: #666;
         margin-left: -0.5px;
     }
+.picto {
+  height: 55%;
+  padding-bottom: -1rem;
+  position: relative;
+  top: 10px;
+}
 
 .dark .feature-icon .icon {
     background: rgba(255, 255, 255, 0.15);
@@ -481,7 +501,7 @@ footer {
         border-color: rgba(224, 224, 224, 0.75);
         border-top-style: solid;
         border-top-width: 1px;
-        margin-bottom: 6em;
+        margin-bottom: 0em;
         padding: 3em 0;
         position: relative;
         top: -5em;
@@ -505,17 +525,49 @@ footer {
 /* Section Actu */
 .section-actu {
     padding-bottom: 8rem;
-    margin-top: -2rem;
 }
 
 .actu img {
-    margin-top: -10rem;
+    margin-top: -5em;
     width: 100%;
-    height: 15rem;
 }
 
 @media screen and (max-width: 768px) {
     .actu {
-        margin-bottom: 10rem;
+        margin-bottom: 8rem;
+    }
+    .section-actu {
+        padding-bottom: 2rem;
     }
   }
+
+/* Contact */
+
+.form {
+  color: white;
+}
+
+/* equipe */
+
+.equipe-img {
+  height: 50%;
+  width: 50%;
+  margin-bottom: 2rem;
+  margin-top: -4rem;
+}
+@media screen and (max-width: 768px) {
+.equipe-tel {
+  margin-bottom: 6rem;
+}
+}
+
+/* entreprise */
+
+.onepercent {
+  margin-top: -2rem;
+}
+
+.button {
+  color: #117197;
+  font-weight: bold;
+}

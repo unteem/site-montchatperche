@@ -2,11 +2,11 @@
 <div id="foo" class="style-new"></div>
 <div class="dark style-new featured">
     <div class="container">
-        <div class="row">
+        <div class="row" id="entreprise">
             {{ range .Params.mission }}
             <div class="4u 12u(narrow)">
                 <section>
-                    <span class="feature-icon"><span class="icon {{ .picto }}"></span></span>
+                    <span class="feature-icon"><span class="icon"><img src="{{ .picto }}" class="picto" ></span></span>
                     <header>
                         <h3>{{ .name | markdownify }}</h3>
                     </header>
@@ -17,7 +17,7 @@
         </div>
         <div class="column">
             <div class="column is-half is-offset-one-quarter">
-            <button class="button is-large modal-button" data-target="#modal-engagement">En savoir plus</button>
+            <button class="button modal-button onepercent" data-target="#modal-engagement">En savoir plus</button>
             </div>
         </div>
     </div>

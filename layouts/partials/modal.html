@@ -8,7 +8,7 @@
         </div>
         <section class="modal-card-body modal-service">
             <div class="content">
-                <p>{{ .details }}</p>
+                <p>{{ .details | markdownify }}</p>
                 <div class="columns is-mobile is-multiline is-centered">
                         {{ range .gallery }}
                             <div class="column is-narrow">
