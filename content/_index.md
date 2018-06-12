@@ -42,7 +42,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: fuite
-    name: Recherche de fuites
+    name: Recherche <br>de<br> fuites
     thumbnail: /images/goods/fuites-thumb.JPG
   - details:
       Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur

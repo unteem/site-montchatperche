@@ -76,7 +76,7 @@
     top: -40px;
 }
 #header {
-    height: 680px;
+    height: 100%;
 }
 
 .header-text {
@@ -148,9 +148,11 @@
 
 /* hexagons */
 .hex-text {
-    top: 28%;
-    left: 28%;
-    right: 28%;
+  position: absolute;
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
 }
 @media screen and (min-width: 768px) {
     .hex-text h2 {
