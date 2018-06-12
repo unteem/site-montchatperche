@@ -80,7 +80,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: surmesure
-    name: Sur mesure
+    name: évènementiel Sur mesure
     thumbnail: /images/goods/2018-thumb.JPG
 mission:
   - details: >-
@@ -114,4 +114,3 @@ team:
     image: /images/speleo.jpg
     name: Emilie Renaudier
 ---
-

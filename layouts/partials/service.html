@@ -11,7 +11,9 @@
             <li class="hex hex-color">
                     <div class="hexIn hex-color">
                         <a class="hexLink hex-color modal-button" data-target="#modal-{{.identifier}}">
-                                    <h2 class="hex-text">{{ .name | markdownify}}</h2>
+                                <div class="hex-text columns">
+                                    <h2>{{ .name | markdownify}}</h2>
+                                </div>
                                 <!--
                             <div class="hex-foot columns">
                                     <a class="modal-button" data-target="#modal-{{.identifier}}">En savoir plus</a>
