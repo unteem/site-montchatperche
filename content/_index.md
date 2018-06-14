@@ -2,7 +2,39 @@
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
-  - details: "SECURISATION\\\n<br> Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à nos services pour la sécurisation d’urgence en cas de risque de chute d’objets et/ou de personnes.\r\n\n\r\n\nPierre agrafée et parement de façade, forget et éléments bois\r\n\nPurge de façade\r\n\nDépose antenne\r\n\nFilet (fourniture et pose)\r\n\nAncrage (étude, pose, dépose, accompagnement de personnel intervenant)\r\n\nMesures conservatoires : une action immédiate pour les premières réparations"
+  - details: >-
+      # SECURISATION
+
+
+      \
+
+      Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à nos
+      services pour la sécurisation d’urgence en cas de risque de chute d’objets
+      et/ou de personnes.
+
+
+      * Pierre agrafée et parement de façade, forget et éléments bois
+
+
+
+      * Purge de façade
+
+
+
+      * Dépose antenne
+
+
+
+      * Filet (fourniture et pose)
+
+
+
+      * Ancrage (étude, pose, dépose, accompagnement de personnel intervenant)
+
+
+
+      * Mesures conservatoires : une action immédiate pour les premières
+      réparations
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
@@ -114,3 +146,4 @@ team:
     image: /images/speleo.jpg
     name: Emilie Renaudier
 ---
+
