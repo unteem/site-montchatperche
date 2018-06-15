@@ -74,16 +74,13 @@ services:
     identifier: toiture
     name: Entretien Toiture
     thumbnail: /images/new/entretien-toiture.JPG
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
+  - details: "Pour faciliter la cohabitation entre les oiseaux et les habitants, nous étudions leur \r\n\ncomportement sur site en fonction de la configuration du bâti et vous préconisons \r\n\nune, ou plusieurs solutions combinées :\r\n\n\r\n\nProtection du bâti\r\n\n\\- Filet débrayable ou fixe\r\n\n(balcon, cour intérieure, forget,..)\r\n\n\\-\tObturateur de tuile\r\n\n\r\n\nEffarouchement Pigeons \r\n\n\\-\tCoupelle\r\n\n\r\n\nAnti-perchement\r\n\n\r\n\n\\-\tVêture Pic"
     gallery:
       - image: images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: volatile
-    name: Dispositifs anti-volatiles
+    name: Dispositif anti-volatile
     thumbnail: /images/new/anti-volatiles.JPG
   - details: >-
       Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
