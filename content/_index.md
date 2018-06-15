@@ -82,10 +82,7 @@ services:
     identifier: volatile
     name: Dispositif anti-volatile
     thumbnail: /images/new/anti-volatiles.JPG
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
+  - details: "Accompagnement / Encadrement\r\n\nConseil en solution de sécurisation\r\n\nAncrage mécanique /scellement\r chimique\n\nEvénementiel\r\n\nSupport technique\r\n\nPatrimoine\r\n\nTravaux spéciaux\r\n\n\n\n\\>Contactez-nous !"
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
