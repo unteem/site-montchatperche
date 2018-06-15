@@ -93,8 +93,8 @@ services:
     thumbnail: /images/goods/2018-thumb.JPG
 mission:
   - details: >-
-      15 années d'expérience en travaux sur cordes au service d'interventions en
-      hauteur et d'accès difficile, sécurisées.
+      Montchat PERCHé réunit 15 années d'expérience en travaux sur cordes au
+      service d'interventions sécurisées en hauteur et d'accès difficile, .
 
 
       Spécialisés dans les interventions en milieu urbain, nos techniques de
@@ -102,16 +102,28 @@ mission:
       difficiles d'accès.
 
 
-      L'expérience de Paul GREGORI dans l'encadrement de personne permet à notre
-      équipe d'être le partenaire d'accès technique de nombreux corps de métiers
-      complémentaires (couvreur, plombier, électricien, huissier, expert, bureau
-      d'études, cabinet d'architecte
+      L'expérience de Paul GREGORI dans l'encadrement de personnes permet à
+      notre équipe d'être le partenaire d'accès technique de nombreux corps de
+      métiers complémentaires (couvreur, plombier, électricien, désamianteur,
+      huissier, expert, bureau d'études, cabinet d'architecte,...)
     name: La garantie<br> sécurité
     picto: /images/shield.png
   - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
+      Montchat PERCHé reverse chaque année 1% de son chiffre d'affaire à
+      l'organisation 
+
+
+      logo et lien (cf mail)
+
+
+      Mobilité Urbaine : triporteur et vélo sont les deux véhicules privilégiés
+      pour les rendez-vous et interventions.
+
+
+      Boîtes à vélo
+
+
+      logo et lien (cf mail)
     name: Notre <br> engagement
     picto: /images/onepercentwhite.png
   - details: >-
