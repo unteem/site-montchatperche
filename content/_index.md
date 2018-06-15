@@ -93,8 +93,19 @@ services:
     thumbnail: /images/goods/2018-thumb.JPG
 mission:
   - details: >-
-      Il s’agit de 15 ans d’expérience de travail sur corde. Réalisation de mode
-      opératoire avant travaux. Accompagnement
+      15 années d'expérience en travaux sur cordes au service d'interventions en
+      hauteur et d'accès difficile, sécurisées.
+
+
+      Spécialisés dans les interventions en milieu urbain, nos techniques de
+      cordes nous permettent un accès rapide et en toute sécurité dans les zones
+      difficiles d'accès.
+
+
+      L'expérience de Paul GREGORI dans l'encadrement de personne permet à notre
+      équipe d'être le partenaire d'accès technique de nombreux corps de métiers
+      complémentaires (couvreur, plombier, électricien, huissier, expert, bureau
+      d'études, cabinet d'architecte
     name: La garantie<br> sécurité
     picto: /images/shield.png
   - details: >-
