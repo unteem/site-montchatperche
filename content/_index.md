@@ -65,10 +65,7 @@ services:
     identifier: reparation
     name: Travaux de réparation
     thumbnail: /images/new/zinguerie.JPG
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
+  - details: "Un passage régulier en toiture (fréquence à votre convenance) favorise le prolongement de bon état du bâti et limite le risque d’infiltrations, lié aux fuites par débordement ou obstruction des évacuation.\r\n\n\r\n\nToiture Terrasse\r\n\nToiture Graviers\r\n\nToiture Végétalisée\r\n\nToiture Tuiles\r\n\nNettoyage vitraux/verrière\r\n\n\r\n\nRédaction Rapport\r\n\nPhotos\r\n\nPréconisation\r\n\nRéparation\r\n\n\r\n\nContrat Annuel\r\n\nContrat Semestriel\r\n\nPonctuel"
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
