@@ -56,10 +56,7 @@ services:
     identifier: zinguerie
     name: Zinguerie
     thumbnail: /images/new/zinguerie.JPG
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
+  - details: "Maçonnerie /Ragréage\r\n\nBlocage de fond\r\n\nConduit de cheminée\r\n\nVerrière\r\n\nReprise partielle\r\n\nMesure conservatoire\r\n\nEtanchéité\r\n\n<B>Intervention d’urgence et/ou étude pour devis\r<B>"
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
