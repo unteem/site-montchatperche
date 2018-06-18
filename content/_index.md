@@ -32,7 +32,35 @@ services:
     identifier: secu
     name: Mise en sécurité et Urgence
     thumbnail: /images/new/mise-en-securite-urgence.JPG
-  - details: "Vous constatez ou on vous a signalé une infiltration (trace, auréole, humidité) lors d’épisodes d’intempéries et vous avez besoin de déterminer l’origine des infiltrations ?\r\n\n\r\n\nSpécialistes de la recherche de fuite en toiture et façade, nos techniques de cordes nous permettent de vous proposer un état des lieux complets avec réalisation de mesures conservatoires immédiates.\r\n\n\r\n\nVous pouvez faire appel à notre équipe :\r\n\n\r\n\nArrosage et mise en eau\r\n\nRecherche de fuite avec traceur\r\n\nSondages destructifs\r\n\nHygrométrie\r\n\nRapport photos\r\n\nMesures conservatoires\r\n\nSolution temporaire immédiate puis pérenne avec devis complémentaire\r\n\nAveuglement fuite d’urgence"
+  - details: >-
+      Vous constatez ou on vous a signalé une infiltration (trace, auréole,
+      humidité) lors d’épisodes d’intempéries et vous avez besoin de déterminer
+      l’origine des infiltrations ?
+
+
+      Spécialistes de la recherche de fuite en toiture et façade, nos techniques
+      de cordes nous permettent de vous proposer un état des lieux complets avec
+      réalisation de mesures conservatoires immédiates.
+
+
+      Vous pouvez faire appel à notre équipe :
+
+
+      * Arrosage et mise en eau
+
+      * Recherche de fuite avec traceur
+
+      * Sondages destructifs
+
+      * Hygrométrie
+
+      * Rapport photos
+
+      * Mesures conservatoires
+
+      * Solution temporaire immédiate puis pérenne avec devis complémentaire
+
+      * Aveuglement fuite d’urgence
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
@@ -41,7 +69,56 @@ services:
     identifier: fuite
     name: Recherche de fuites
     thumbnail: /images/goods/fuites-thumb.JPG
-  - details: "Un tuyau s’est déboîté, est tombé au sol ? Vous avez constaté un défaut sur les chéneaux , gouttières, ou vous constaté un ruissellement excessif des eaux pluviales ?\r\n\n\r\n\nNotre équipe est à votre service pour : \r\n\n\r\n\n<B>Zinguerie Verticale<B>\r\n\nColonne eau pluviale\r\n\nRemplacement partiel\r\n\nRemplacement complet\r\n\nModification système évacuation extérieur\r\n\nCoudière fenêtre\r\n\nBavette rejet d’eau/Profilé goutte d’eau\r\n\nCaisson volets roulants extérieurs\r\n\nLambrequin \r\n\n\r\n\n<B>Zinguerie Horizontale<B>\r\n\nHabillage/Réparation/de planche de rive\r\n\nChéneau\r\n\nGouttière\r\n\nAbergement conduit cheminée\r\n\nNoquet – redan et noues\r\n\nCouvertine : protection tête de mur/boiseries/acrotère toiture\r\n\nFenêtre de toit\r\n\nOuvrant/dormant\r\n\nTrappe d’accès\r\n\nSkydome \r\n\nCoupole"
+  - details: >-
+      Un tuyau s’est déboîté, est tombé au sol ? Vous avez constaté un défaut
+      sur les chéneaux , gouttières, ou vous constaté un ruissellement excessif
+      des eaux pluviales ?
+
+
+      Notre équipe est à votre service pour : 
+
+
+      * Zinguerie Verticale
+
+      * Colonne eau pluviale
+
+      * Remplacement partiel
+
+      * Remplacement complet
+
+      * Modification système évacuation extérieur
+
+      * Coudière fenêtre
+
+      * Bavette rejet d’eau/Profilé goutte d’eau
+
+      * Caisson volets roulants extérieurs
+
+      * Lambrequin 
+
+      * Zinguerie Horizontale
+
+      * Habillage/Réparation/de planche de rive
+
+      * Chéneau
+
+      * Gouttière
+
+      * Abergement conduit cheminée
+
+      * Noquet – redan et noues
+
+      * Couvertine : protection tête de mur/boiseries/acrotère toiture
+
+      * Fenêtre de toit
+
+      * Ouvrant/dormant
+
+      * Trappe d’accès
+
+      * Skydome 
+
+      * Coupole
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
@@ -65,8 +142,7 @@ services:
 
       Etanchéité
 
-      <B>Intervention d’urgence et/ou étude pour devis
-      <B>
+      Intervention d’urgence et/ou étude pour devis
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
@@ -84,7 +160,30 @@ services:
     identifier: toiture
     name: Entretien Toiture
     thumbnail: /images/new/entretien-toiture.JPG
-  - details: "Pour faciliter la cohabitation entre les oiseaux et les habitants, nous étudions leur \r\n\ncomportement sur site en fonction de la configuration du bâti et vous préconisons \r\n\nune, ou plusieurs solutions combinées :\r\n\n\r\n\nProtection du bâti\r\n\n\\- Filet débrayable ou fixe\r\n\n(balcon, cour intérieure, forget,..)\r\n\n\\-\tObturateur de tuile\r\n\n\r\n\nEffarouchement Pigeons \r\n\n\\-\tCoupelle\r\n\n\r\n\nAnti-perchement\r\n\n\r\n\n\\-\tVêture Pic"
+  - details: >-
+      Pour faciliter la cohabitation entre les oiseaux et les habitants, nous
+      étudions leur 
+
+
+      comportement sur site en fonction de la configuration du bâti et vous
+      préconisons 
+
+
+      * une, ou plusieurs solutions combinées :
+
+      * Protection du bâti
+
+      * Filet débrayable ou fixe (balcon, cour intérieure, forget,..)
+
+      * Obturateur de tuile
+
+      * Effarouchement Pigeons 
+
+      * Coupelle
+
+      * Anti-perchement
+
+      * Vêture Pic
     gallery:
       - image: images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
