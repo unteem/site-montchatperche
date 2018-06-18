@@ -3,32 +3,26 @@ title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
   - details: >-
-      <title>SECURISATION\
-
-      <br> Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à
-      nos services pour la sécurisation d’urgence en cas de risque de chute
-      d’objets et/ou de personnes.
+      # SECURISATION
 
 
-      <br><ul>
+
+      Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à nos
+      services pour la sécurisation d’urgence en cas de risque de chute d’objets
+      et/ou de personnes.
 
 
-      Pierre agrafée et parement de façade, forget et éléments bois
+      * Pierre agrafée et parement de façade, forget et éléments bois
 
+      * Purge de façade
 
-      Purge de façade
+      * Dépose antenne
 
+      * Filet (fourniture et pose)
 
-      Dépose antenne
+      * Ancrage (étude, pose, dépose, accompagnement de personnel intervenant)
 
-
-      Filet (fourniture et pose)
-
-
-      Ancrage (étude, pose, dépose, accompagnement de personnel intervenant)
-
-
-      Mesures conservatoires : une action immédiate pour les premières
+      * Mesures conservatoires : une action immédiate pour les premières
       réparations
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
@@ -56,7 +50,23 @@ services:
     identifier: zinguerie
     name: Zinguerie
     thumbnail: /images/new/zinguerie.JPG
-  - details: "Maçonnerie /Ragréage\r\n\nBlocage de fond\r\n\nConduit de cheminée\r\n\nVerrière\r\n\nReprise partielle\r\n\nMesure conservatoire\r\n\nEtanchéité\r\n\n<B>Intervention d’urgence et/ou étude pour devis\r<B>"
+  - details: |-
+      Maçonnerie /Ragréage
+
+      Blocage de fond
+
+      Conduit de cheminée
+
+      Verrière
+
+      Reprise partielle
+
+      Mesure conservatoire
+
+      Etanchéité
+
+      <B>Intervention d’urgence et/ou étude pour devis
+      <B>
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
