@@ -3,10 +3,9 @@ title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
   - details: >-
-      Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à nos
+      ## Dépose, enlèvement, réparation, refixation, <br>vous pouvez faire appel à nos
       services pour la sécurisation d’urgence en cas de risque de chute d’objets
       et/ou de personnes.
-
 
       * Pierre agrafée et parement de façade, forget et éléments bois
 
@@ -23,23 +22,20 @@ services:
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
     identifier: secu
     name: Mise en sécurité et Urgence
     thumbnail: /images/new/mise-en-securite-urgence.JPG
   - details: >-
-      Vous constatez ou on vous a signalé une infiltration (trace, auréole,
+      ## Vous constatez ou on vous a signalé une infiltration (trace, auréole,
       humidité) lors d’épisodes d’intempéries et vous avez besoin de déterminer
       l’origine des infiltrations ?
-
 
       Spécialistes de la recherche de fuite en toiture et façade, nos techniques
       de cordes nous permettent de vous proposer un état des lieux complets avec
       réalisation de mesures conservatoires immédiates.
 
 
-      Vous pouvez faire appel à notre équipe :
+      Vous pouvez faire appel à notre équipe pour :
 
 
       * Arrosage et mise en eau
@@ -60,14 +56,12 @@ services:
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
     identifier: fuite
     name: Recherche de fuites
     thumbnail: /images/goods/fuites-thumb.JPG
   - details: >-
-      Un tuyau s’est déboîté, est tombé au sol ? Vous avez constaté un défaut
-      sur les chéneaux , gouttières, ou vous constaté un ruissellement excessif
+      ## Un tuyau s’est déboîté, est tombé au sol ? <br>Vous avez constaté un défaut
+      sur les chéneaux , gouttières, ou vous constatez un ruissellement excessif
       des eaux pluviales ?
 
 
@@ -118,58 +112,61 @@ services:
     gallery:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
     identifier: zinguerie
     name: Zinguerie
     thumbnail: /images/new/zinguerie.JPG
-  - details: |-
-      Maçonnerie /Ragréage
+  - details: >-
+     ## lalalalala lejo  njz  fjizeo
 
-      Blocage de fond
-
-      Conduit de cheminée
-
-      Verrière
-
-      Reprise partielle
-
-      Mesure conservatoire
-
-      Etanchéité
-
-      Intervention d’urgence et/ou étude pour devis
+      * Maçonnerie /Ragréage
+      * Blocage de fond
+      * Conduit de cheminée
+      * Verrière
+      * Reprise partielle
+      * Mesure conservatoire
+      * Etanchéité
+      * Intervention d’urgence et/ou étude pour devis
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: reparation
     name: Travaux de réparation
     thumbnail: /images/new/zinguerie.JPG
-  - details: "Un passage régulier en toiture (fréquence à votre convenance) favorise le prolongement de bon état du bâti et limite le risque d’infiltrations, lié aux fuites par débordement ou obstruction des évacuation.\r\n\n\r\n\nToiture Terrasse\r\n\nToiture Graviers\r\n\nToiture Végétalisée\r\n\nToiture Tuiles\r\n\nNettoyage vitraux/verrière\r\n\n\r\n\nRédaction Rapport\r\n\nPhotos\r\n\nPréconisation\r\n\nRéparation\r\n\n\r\n\nContrat Annuel\r\n\nContrat Semestriel\r\n\nPonctuel"
+
+  - details: "##  Un passage régulier en toiture favorise le prolongement de bon état du bâti. Il limite le risque d’infiltration lié aux fuites par débordement ou obstruction des évacuations.
+
+
+  * Toiture Terrasse
+
+  * Toiture Graviers
+
+  * Toiture Végétalisée
+
+  * Toiture Tuiles
+
+  * Nettoyage vitraux/verrière
+
+  * Rédaction Rapport
+
+  * Photos
+
+  * Préconisation
+
+  * Réparation
+
+  * *Contrat Annuel / Contrat Semestriel / Ponctuel*"
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: toiture
     name: Entretien Toiture
     thumbnail: /images/new/entretien-toiture.JPG
   - details: >-
-      Pour faciliter la cohabitation entre les oiseaux et les habitants, nous
-      étudions leur
-
-
-      comportement sur site en fonction de la configuration du bâti et vous
-      préconisons
-
-
-      * une, ou plusieurs solutions combinées :
+      ## Pour faciliter la cohabitation entre les oiseaux et les habitants, nous étudions leur comportement sur site en fonction de la configuration du bâti. Nous vous préconisons une ou plusieurs solutions combinées.
 
       * Protection du bâti
 
-      * Filet débrayable ou fixe (balcon, cour intérieure, forget,..)
+      * Filet débrayable ou fixe (balcon, cour intérieure, forget, etc)
 
       * Obturateur de tuile
 
@@ -183,14 +180,24 @@ services:
     gallery:
       - image: images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
     identifier: volatile
     name: Dispositif anti-volatile
     thumbnail: /images/new/anti-volatiles.JPG
-  - details: "Accompagnement / Encadrement\r\n\nConseil en solution de sécurisation\r\n\nAncrage mécanique /scellement\r chimique\n\nEvénementiel\r\n\nSupport technique\r\n\nPatrimoine\r\n\nTravaux spéciaux\r\n\n\n\n\\>Contactez-nous !"
+  - details: "
+  * Accompagnement / Encadrement
+
+  * Conseil en solution de sécurisation
+
+  * Ancrage mécanique / scellement chimique
+
+  * Evénementiel
+
+  * Support technique
+
+  * Patrimoine
+
+  * Travaux spéciaux"
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: surmesure
@@ -231,12 +238,20 @@ mission:
       logo et lien (cf mail)
     name: Notre <br> engagement
     picto: /images/onepercentwhite.png
+
   - details: >-
       Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
       tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
       eget. Nunc nibh morbi quis fusce lacus.
     name: Conseil et Renseignement
     picto: /images/question.png
+
+engagement:
+  - details: 1% pour la planète, nanana
+    gallery:
+      - image: images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/mise-en-securite-urgence.JPG
+
 team:
   - details: >-
       Vitae atoque dictum etiam semper magnis enim feugiat amet curabitur tempor

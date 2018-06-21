@@ -5954,7 +5954,7 @@
     color: #363636;
     flex-grow: 1;
     flex-shrink: 0;
-    font-size: 1.5rem;
+    font-size: 2rem;
     line-height: 1;
   }
 
@@ -5974,7 +5974,6 @@
     flex-grow: 1;
     flex-shrink: 1;
     overflow: auto;
-    padding: 20px;
   }
 
   .navbar {
