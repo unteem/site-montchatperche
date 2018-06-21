@@ -3,10 +3,6 @@ title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 services:
   - details: >-
-      # SECURISATION
-
-
-
       Dépose, enlèvement, réparation, refixation, vous pouvez faire appel à nos
       services pour la sécurisation d’urgence en cas de risque de chute d’objets
       et/ou de personnes.

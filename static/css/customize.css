@@ -572,3 +572,15 @@ footer {
   color: #117197;
   font-weight: bold;
 }
+
+/* Activités */
+
+.content li {
+  text-align: center;
+  list-style: none;
+}
+
+.content p {
+  text-align: center;
+  font-style: italic;
+}
