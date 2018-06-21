@@ -111,6 +111,7 @@
 .logo-accueil {
     text-align: center;
     background-color: white;
+    margin-bottom: 4rem;
 }
 @media screen and (max-width: 768px) {
     .section-engagement {
@@ -143,7 +144,7 @@
   }
 
 .logo-hero {
-    width: 30rem;
+    width: 25rem;
 }
 
 /* hexagons */
@@ -162,7 +163,7 @@
   }
   @media screen and (max-width: 768px) {
     .hex-text h2 {
-        font-size: 1rem;
+        font-size: 1.1rem;
         color: white;
     }
     .hex-foot {
@@ -543,7 +544,7 @@ footer {
 
 /* Contact */
 
-.form {
+.form-contact {
   color: white;
 }
 

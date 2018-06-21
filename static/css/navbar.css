@@ -3330,18 +3330,19 @@ body.has-spaced-navbar-fixed-bottom {
 .modal-card-head,
 .modal-card-foot {
   align-items: center;
-  background-color: whitesmoke;
+  background-color: white;
   display: flex;
   flex-shrink: 0;
   justify-content: flex-start;
   padding: 20px;
   position: relative;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .modal-card-head {
-  border-bottom: 1px solid #dbdbdb;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
 }
 
 .modal-card-title {
@@ -3353,8 +3354,8 @@ body.has-spaced-navbar-fixed-bottom {
 }
 
 .modal-card-foot {
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
   border-top: 1px solid #dbdbdb;
 }
 .modal-card-foot .button:not(:last-child) {

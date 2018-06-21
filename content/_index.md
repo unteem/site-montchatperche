@@ -21,7 +21,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: fuite
-    name: Recherche <br>de<br> fuites
+    name: Recherche de fuites
     thumbnail: /images/goods/fuites-thumb.JPG
   - details: >-
       Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
@@ -80,7 +80,7 @@ services:
       - image: /images/new/mise-en-securite-urgence.JPG
       - image: /images/new/mise-en-securite-urgence.JPG
     identifier: surmesure
-    name: évènementiel Sur mesure
+    name: événementiel Sur mesure
     thumbnail: /images/goods/2018-thumb.JPG
 mission:
   - details: >-
