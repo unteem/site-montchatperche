@@ -100,12 +100,6 @@ mission:
       Spécialisés dans les interventions en milieu urbain, nos techniques de
       cordes nous permettent un accès rapide et en toute sécurité dans les zones
       difficiles d'accès.
-
-
-      L'expérience de Paul GREGORI dans l'encadrement de personnes permet à
-      notre équipe d'être le partenaire d'accès technique de nombreux corps de
-      métiers complémentaires (couvreur, plombier, électricien, désamianteur,
-      huissier, expert, bureau d'études, cabinet d'architecte,...)
     name: La garantie<br> sécurité
     picto: /images/shield.png
   - details: >-
@@ -134,9 +128,10 @@ mission:
     picto: /images/question.png
 team:
   - details: >-
-      Vitae atoque dictum etiam semper magnis enim feugiat amet curabitur tempor
-      orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget.
-      Nunc nibh morbi quis fusce lacus.
+      L'expérience de Paul GREGORI dans l'encadrement de personnes permet à
+      notre équipe d'être le partenaire d'accès technique de nombreux corps de
+      métiers complémentaires (couvreur, plombier, électricien, désamianteur,
+      huissier, expert, bureau d'études, cabinet d'architecte,...)
     image: /images/slack.jpg
     name: Paul Gregori
   - details: >-
