@@ -114,7 +114,9 @@ mission:
       pour les rendez-vous et interventions.
 
 
-      Boîtes à vélo
+      Boîtes à vélo Lyon : prenant exemple sur d'autres ville de France
+      (Grenoble, Nantes,...) nous participons à la création de l'association
+      regroupant les entrepreneurs lyonnais à vélo
 
 
       logo et lien (cf mail)
