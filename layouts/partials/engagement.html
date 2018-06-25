@@ -3,23 +3,42 @@
 <div class="dark style-new featured">
     <div class="container">
         <div class="row" id="entreprise">
-            {{ range .Params.mission }}
             <div class="4u 12u(narrow)">
                 <section>
-                    <span class="feature-icon"><span class="icon"><img src="{{ .picto }}" class="picto" ></span></span>
+                    <span class="feature-icon"><span class="icon"><img src="/images/shield.png" class="picto" ></span></span>
                     <header>
-                        <h3>{{ .name | markdownify }}</h3>
+                        <h3>La garantie<br>sécurité</h3>
                     </header>
-                    <p>{{ .details }}</p>
+                    <p>Montchat PERCHÉ réunit 15 années d'expérience en travaux sur cordes au service d'interventions sécurisées en hauteur et d'accès difficile. Spécialisés dans les interventions en milieu urbain, nos techniques de cordes nous permettent un accès rapide et en toute sécurité dans les zones difficiles d'accès.</p>
                 </section>
             </div>
-            {{ end }}
-        </div>
-        <div class="column">
-            <div class="column is-half is-offset-one-quarter">
-            <button class="button modal-button onepercent" data-target="#modal-engagement">En savoir plus</button>
+            <div class="4u 12u(narrow)">
+                <section>
+                    <span class="feature-icon"><span class="icon"><img src="/images/onepercentwhite.png" class="picto" ></span></span>
+                    <header>
+                        <h3>Notre<br>engagement</h3>
+                    </header>
+                    <p>  Montchat PERCHÉ reverse chaque année 1% de son chiffre d'affaire à
+                      l'organisation
+                      logo et lien (cf mail
+                      Mobilité Urbaine : triporteur et vélo sont les deux véhicules privilégiés
+                      pour les rendez-vous et interventions.
+                      Boîtes à vélo
+                      logo et lien (cf mail)</p>
+                </section>
+                <button class="button modal-button onepercent" data-target="#modal-engagement">En savoir plus</button>
+            </div>
+            <div class="4u 12u(narrow)">
+                <section>
+                    <span class="feature-icon"><span class="icon"><img src="/images/question.png" class="picto" ></span></span>
+                    <header>
+                        <h3>Conseil et Renseignement</h3>
+                    </header>
+                    <p>  Nous mettons à votre disposition l’ensemble de nos solutions techniques pour vous accompagner dans vos démarches d’entretien des bâtis, neuf et anciens, en zone d’accès difficile.<br>Renseignements et devis gratuits.</p>
+                </section>
             </div>
         </div>
+
     </div>
 </div>
 <div id="bar" class="style-new"></div>
@@ -31,20 +50,29 @@
           <p class="modal-card-title">Notre engagement</p>
       </div>
       <section class="modal-card-body modal-service">
-        {{ range .Params.engagement }}
           <div class="content">
-              <p>{{ .details | markdownify }}</p>
+              <h2>1% Pour la planète</h2>
+              <p>Montchat PERCHÉ reverse chaque année 1% de son chiffre d'affaire à l'organisation</p>
+              <img src="/images/onepercent.png" alt="onepercent" class="engagement-logo">
+              <h2>Mobilité Urbaine</h2>
+              <p>Triporteur et vélo sont les deux véhicules privilégiés pour les rendez-vous et interventions.</p>
+              <h2>Cyclick</h2>
+              <p>Annuaire d’entrepreneurs à vélo</p>
+              <h2>Boîtes à vélo Lyon</h2>
+              <p>Prenant exemple sur d'autres ville de France (Grenoble, Nantes,...) nous participons à la création de l'association regroupant les entrepreneurs lyonnais à vélo</p>
               <div class="columns is-mobile is-multiline is-centered">
-                      {{ range .gallery }}
                           <div class="column is-narrow">
                               <figure class="image is-200x200">
-                                  <img src="{{ .image }}">
+                                  <img src="/images/new/triporteur.jpg" alt="triporteur">
                               </figure>
                           </div>
-                      {{ end }}
+                          <div class="column is-narrow">
+                              <figure class="image is-200x200">
+                                  <img src="">
+                              </figure>
+                          </div>
                       </div>
           </div>
-          {{ end }}
       </section>
   </div>
   <button class="modal-close is-large" aria-label="close"></button>

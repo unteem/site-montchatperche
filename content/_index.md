@@ -20,11 +20,11 @@ services:
       * Mesures conservatoires : une action immédiate pour les premières
       réparations
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/securite-1.JPG
+      - image: /images/new/securite-2.JPG
     identifier: secu
     name: Mise en sécurité et Urgence
-    thumbnail: /images/new/mise-en-securite-urgence.JPG
+    thumbnail: /images/new/securite-hex.JPG
   - details: >-
       ## Vous constatez ou on vous a signalé une infiltration (trace, auréole,
       humidité) lors d’épisodes d’intempéries et vous avez besoin de déterminer
@@ -54,11 +54,11 @@ services:
 
       * Aveuglement fuite d’urgence
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/fuite-1.JPG
+      - image: /images/new/fuite-2.JPG
     identifier: fuite
     name: Recherche de fuites
-    thumbnail: /images/goods/fuites-thumb.JPG
+    thumbnail: /images/new/fuite-hex.JPG
   - details: >-
       ## Un tuyau s’est déboîté, est tombé au sol ? <br>Vous avez constaté un défaut
       sur les chéneaux , gouttières, ou vous constatez un ruissellement excessif
@@ -68,55 +68,45 @@ services:
       Notre équipe est à votre service pour :
 
 
-      * Zinguerie Verticale
+      ### Zinguerie Verticale
 
       * Colonne eau pluviale
 
-      * Remplacement partiel
-
-      * Remplacement complet
+      * Remplacement partiel / Remplacement complet
 
       * Modification système évacuation extérieur
 
       * Coudière fenêtre
 
-      * Bavette rejet d’eau/Profilé goutte d’eau
+      * Bavette rejet d’eau / Profilé goutte d’eau
 
-      * Caisson volets roulants extérieurs
+      * Caisson volets roulants extérieurs / Lambrequin<br><br>
 
-      * Lambrequin
 
-      * Zinguerie Horizontale
+      ### Zinguerie Horizontale
 
-      * Habillage/Réparation/de planche de rive
+      * Habillage / Réparation de planche de rive  
 
-      * Chéneau
+      * Chéneau / Gouttière / Abergement conduit cheminée  
 
-      * Gouttière
+      * Noquet / Redan et noues  
 
-      * Abergement conduit cheminée
+      * Couvertine : protection tête de mur/boiseries/acrotère toiture   
 
-      * Noquet – redan et noues
+      * Fenêtre de toit  
 
-      * Couvertine : protection tête de mur/boiseries/acrotère toiture
+      * Ouvrant / Dormant  
 
-      * Fenêtre de toit
+      * Trappe d’accès / Skydome / Coupole  
 
-      * Ouvrant/dormant
-
-      * Trappe d’accès
-
-      * Skydome
-
-      * Coupole
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/zinguerie-1.JPG
+      - image: /images/new/zinguerie-2.JPG
     identifier: zinguerie
     name: Zinguerie
-    thumbnail: /images/new/zinguerie.JPG
+    thumbnail: /images/new/zinguerie-hex.JPG
   - details: >-
-     ## lalalalala lejo  njz  fjizeo
+     ## En toiture et en façade, nous accédons, diagnostiquons et réparons : mesures conservatoires après recherche de fuite en zone inaccessible et réparation d’urgence.
 
       * Maçonnerie /Ragréage
       * Blocage de fond
@@ -127,26 +117,26 @@ services:
       * Etanchéité
       * Intervention d’urgence et/ou étude pour devis
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/reparation-1.JPG
+      - image: /images/new/reparation-2.JPG
     identifier: reparation
     name: Travaux de réparation
-    thumbnail: /images/new/zinguerie.JPG
+    thumbnail: /images/new/reparation-hex.JPG
 
   - details: "##  Un passage régulier en toiture favorise le prolongement de bon état du bâti. Il limite le risque d’infiltration lié aux fuites par débordement ou obstruction des évacuations.
 
 
-  * Toiture Terrasse
+  * Toiture terrasse
 
-  * Toiture Graviers
+  * Toiture graviers
 
-  * Toiture Végétalisée
+  * Toiture végétalisée
 
-  * Toiture Tuiles
+  * Toiture tuiles
 
-  * Nettoyage vitraux/verrière
+  * Nettoyage vitraux / verrière
 
-  * Rédaction Rapport
+  * Rédaction rapport
 
   * Photos
 
@@ -156,11 +146,11 @@ services:
 
   * *Contrat Annuel / Contrat Semestriel / Ponctuel*"
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/toiture-1.JPG
+      - image: /images/new/toiture-2.JPG
     identifier: toiture
     name: Entretien Toiture
-    thumbnail: /images/new/entretien-toiture.JPG
+    thumbnail: /images/new/toiture-hex.JPG
   - details: >-
       ## Pour faciliter la cohabitation entre les oiseaux et les habitants, nous étudions leur comportement sur site en fonction de la configuration du bâti. Nous vous préconisons une ou plusieurs solutions combinées.
 
@@ -178,11 +168,11 @@ services:
 
       * Vêture Pic
     gallery:
-      - image: images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: images/new/volatile-1.JPG
+      - image: /images/new/volatile-2.JPG
     identifier: volatile
     name: Dispositif anti-volatile
-    thumbnail: /images/new/anti-volatiles.JPG
+    thumbnail: /images/new/volatile-hex.JPG
   - details: "
   * Accompagnement / Encadrement
 
@@ -198,71 +188,9 @@ services:
 
   * Travaux spéciaux"
     gallery:
-      - image: /images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
+      - image: /images/new/surmesure-1.JPG
+      - image: /images/new/surmesure-2.JPG
     identifier: surmesure
     name: événementiel Sur mesure
-    thumbnail: /images/goods/2018-thumb.JPG
-mission:
-  - details: >-
-      Montchat PERCHé réunit 15 années d'expérience en travaux sur cordes au
-      service d'interventions sécurisées en hauteur et d'accès difficile, .
-
-
-      Spécialisés dans les interventions en milieu urbain, nos techniques de
-      cordes nous permettent un accès rapide et en toute sécurité dans les zones
-      difficiles d'accès.
-
-
-      L'expérience de Paul GREGORI dans l'encadrement de personnes permet à
-      notre équipe d'être le partenaire d'accès technique de nombreux corps de
-      métiers complémentaires (couvreur, plombier, électricien, désamianteur,
-      huissier, expert, bureau d'études, cabinet d'architecte,...)
-    name: La garantie<br> sécurité
-    picto: /images/shield.png
-  - details: >-
-      Montchat PERCHé reverse chaque année 1% de son chiffre d'affaire à
-      l'organisation
-
-
-      logo et lien (cf mail)
-
-
-      Mobilité Urbaine : triporteur et vélo sont les deux véhicules privilégiés
-      pour les rendez-vous et interventions.
-
-
-      Boîtes à vélo
-
-
-      logo et lien (cf mail)
-    name: Notre <br> engagement
-    picto: /images/onepercentwhite.png
-
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
-    name: Conseil et Renseignement
-    picto: /images/question.png
-
-engagement:
-  - details: 1% pour la planète, nanana
-    gallery:
-      - image: images/new/mise-en-securite-urgence.JPG
-      - image: /images/new/mise-en-securite-urgence.JPG
-
-team:
-  - details: >-
-      Vitae atoque dictum etiam semper magnis enim feugiat amet curabitur tempor
-      orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget.
-      Nunc nibh morbi quis fusce lacus.
-    image: /images/slack.jpg
-    name: Paul Gregori
-  - details: >-
-      Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-      tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus
-      eget. Nunc nibh morbi quis fusce lacus.
-    image: /images/speleo.jpg
-    name: Emilie Renaudier
+    thumbnail: /images/new/surmesure-hex.JPG
 ---

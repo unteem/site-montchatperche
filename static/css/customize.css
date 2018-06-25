@@ -565,7 +565,7 @@ footer {
 /* entreprise */
 
 .onepercent {
-  margin-top: -2rem;
+  margin-top: -1rem;
 }
 
 .button {
@@ -599,11 +599,18 @@ footer {
 .modal-card-title {
   margin-bottom: 0;
   margin-top: 2rem;
-  font-size: 1.9rem;
+  font-size: 2.5rem;
   font-weight: 600;
+  color: #6e6e6e;
 }
 .image.is-200x200 {
   width: 250px;
   margin: 0;
   padding: 0;
+}
+
+/* engagement */
+.engagement-logo {
+  text-align: center;
+  width: 10rem;
 }
