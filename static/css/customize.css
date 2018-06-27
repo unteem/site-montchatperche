@@ -611,6 +611,7 @@ footer {
 
 /* engagement */
 .engagement-logo {
-  text-align: center;
   width: 10rem;
+  margin-top: -2rem;
+  margin-bottom: 3rem;
 }
