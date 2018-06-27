@@ -36,7 +36,9 @@
 .text-center {
   text-align: center;
 }
-
+.text-right {
+  text-align: right;
+}
 
   /*
 .right {
@@ -542,30 +544,44 @@ footer {
     }
   }
 
+.button-article {
+      border-width: 0px;
+      color: silver;
+      font-weight: 400;
+  }
 /* Contact */
 
 .form-contact {
   color: white;
 }
+.form {
+  margin: 0.5rem;
+}
 
 /* equipe */
 
 .equipe-img {
-  height: 50%;
-  width: 50%;
+  height: 13rem;
   margin-bottom: 2rem;
   margin-top: -4rem;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 960px) {
 .equipe-tel {
   margin-bottom: 6rem;
 }
+.enga {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
+}
+
+
 
 /* entreprise */
 
 .onepercent {
   margin-top: -1rem;
+  margin-bottom: 2rem;
 }
 
 .button {
@@ -612,6 +628,12 @@ footer {
 /* engagement */
 .engagement-logo {
   width: 10rem;
-  margin-top: -2rem;
+  margin-top: 0;
   margin-bottom: 3rem;
+}
+
+.image.is-400 {
+  width: 100%;
+  margin: 0;
+  padding: 1rem;;
 }

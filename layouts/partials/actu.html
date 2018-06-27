@@ -2,20 +2,37 @@
         <header class="minor container 75% ">
             <h2>Retrouvez nos dernières actualités</h2>
         </header>
-
         <div class="container section-actu">
             <div class="row">
+              {{ $v1 := where .Site.Pages "Section" "actus"}}
+              {{ range last 2 $v1 }}
                 <div class="actu 6u 12u(narrow)">
                     <img class="is-rounded" src="/images/triporteur.jpg" alt="" />
-                    <h3>Mon actu</h3>
-                    <p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
+                    <h3>{{ .Params.title }}</h3>
+                    <p>{{ .Params.description }}</p>
+                    <div class="text-right">
+                    <button class="button button-article modal-button" data-target="#modal-{{ .Params.slug }}">Lire l'article</button>
                 </div>
-
-                <div class="actu 6u 12u(narrow)">
-                    <img class="is-rounded" src="/images/goods/toiture-thumb.JPG" alt="" />
-                    <h3>Mon actu</h3>
-                    <p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
-                </div>
+              </div>
+                {{ end }}
             </div>
         </div>
+        {{ range last 2 $v1 }}
+        <div class="overlay">
+        <div id="modal-{{ .Params.slug }}" class="modal modal-{{ .Params.slug }}">
+          <div class="modal-background"></div>
+          <div class="modal-card">
+              <div class="modal-card-head">
+                  <h1 class="modal-card-title">{{ .Params.title }}</h1>
+              </div>
+              <section class="modal-card-body modal-service">
+                  <div class="content text-center">
+                    <p>{{ .Content }}</p>
+                      </div>
+              </section>
+          </div>
+        </div>
+      </div>
+          <button class="modal-close is-large" aria-label="close"></button>
+          {{ end }}
     </section>
