@@ -2,12 +2,14 @@
         <header class="minor container 75% ">
             <h2>Retrouvez nos dernières actualités</h2>
         </header>
-        <div class="container section-actu">
+        <div class="container section-actu actu-white">
             <div class="row">
               {{ $v1 := where .Site.Pages "Section" "actus"}}
               {{ range last 2 $v1 }}
                 <div class="actu 6u 12u(narrow)">
-                    <img class="is-rounded" src="/images/triporteur.jpg" alt="" />
+                  <div class="text-center">
+                    <img class="is-rounded actu-img" src="{{ .Params.image }}" alt="" />
+                  </div>
                     <h3>{{ .Params.title }}</h3>
                     <p>{{ .Params.description }}</p>
                     <div class="text-right">
@@ -22,10 +24,11 @@
         <div id="modal-{{ .Params.slug }}" class="modal modal-{{ .Params.slug }}">
           <div class="modal-background"></div>
           <div class="modal-card">
-              <div class="modal-card-head">
-                  <h1 class="modal-card-title">{{ .Params.title }}</h1>
-              </div>
               <section class="modal-card-body modal-service">
+                <div class="text-center">
+                  <h1 class="modal-card-title actu-modal-title">{{ .Params.title }}</h1>
+                  <img class="is-rounded actu-img-modal" src="{{ .Params.image }}" alt="" />
+                </div>
                   <div class="content text-center">
                     <p>{{ .Content }}</p>
                       </div>

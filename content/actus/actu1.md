@@ -1,8 +1,8 @@
 ---
-title: Mon Titre
+title: Mon Titre très très très long qui raconte pleins de choses sur Montchat perché
 slug: mon-titre
 online: yes
-image: /images/triporteur.jpg
+image: /images/new/triporteur.jpg
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat iaculis nibh, sit amet imperdiet elit porttitor in."
 ---
 

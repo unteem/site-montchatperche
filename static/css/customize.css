@@ -526,16 +526,40 @@ footer {
         }
 
 /* Section Actu */
+
 .section-actu {
     padding-bottom: 8rem;
 }
 
-.actu img {
+
+@media screen and (max-width: 576px) {
+.actu-img {
     margin-top: -5em;
     width: 100%;
 }
+.actu-white {
+  background-color: white;
+}
+}
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 576px) and (max-width: 980px) {
+  .actu-img {
+      width: 60%;
+      margin-top: -5rem;
+  }
+  .actu-white {
+    background-color: white;
+  }
+}
+
+@media screen and (min-width: 980px) {
+.actu-img {
+    margin-top: -5em;
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 980px) {
     .actu {
         margin-bottom: 8rem;
     }
@@ -545,10 +569,20 @@ footer {
   }
 
 .button-article {
-      border-width: 0px;
-      color: silver;
-      font-weight: 400;
+  border-width: 0px;
+  color: silver;
+  font-weight: 400;
   }
+
+.actu-modal-title {
+  padding-bottom: 2rem;
+}
+
+.actu-img-modal {
+  width: 100%
+}
+
+
 /* Contact */
 
 .form-contact {
@@ -557,6 +591,39 @@ footer {
 .form {
   margin: 0.5rem;
 }
+
+input::-webkit-input-placeholder {
+color: rgba(255, 255, 255, 0.6); !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+color: rgba(255, 255, 255, 0.6); !important;
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+color: rgba(255, 255, 255, 0.6); !important;
+}
+
+input:-ms-input-placeholder {
+color: rgba(255, 255, 255, 0.6); !important;
+}
+
+textarea::-webkit-input-placeholder {
+color: rgba(255, 255, 255, 0.6) !important;
+}
+
+textarea:-moz-placeholder { /* Firefox 18- */
+color: rgba(255, 255, 255, 0.6) !important;
+}
+
+textarea::-moz-placeholder {  /* Firefox 19+ */
+color: rgba(255, 255, 255, 0.6) !important;
+}
+
+textarea:-ms-input-placeholder {
+color: rgba(255, 255, 255, 0.6) !important;  
+}
+
 
 /* equipe */
 
@@ -572,6 +639,9 @@ footer {
 .enga {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+.equipe {
+  background-color: white;
 }
 }
 
@@ -611,11 +681,21 @@ footer {
 .content p {
   line-height: normal;
 }
+@media screen and (max-width: 980px) {
+  .modal-card-title {
+    font-size: 1.9rem;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .modal-card-title {
+    font-size: 2.5rem;
+  }
+}
 
 .modal-card-title {
   margin-bottom: 0;
   margin-top: 2rem;
-  font-size: 2.5rem;
   font-weight: 600;
   color: #6e6e6e;
 }

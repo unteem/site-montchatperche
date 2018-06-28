@@ -3348,7 +3348,6 @@ body.has-spaced-navbar-fixed-bottom {
 .modal-card-title {
   color: #363636;
   flex-grow: 1;
-  flex-shrink: 0;
   font-size: 1.5rem;
   line-height: 1;
 }

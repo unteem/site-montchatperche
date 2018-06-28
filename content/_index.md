@@ -1,7 +1,7 @@
 ---
 title: Monchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
-actus: "noactive"
+actus: "active"
 services:
   - details: >-
       ## Dépose, enlèvement, réparation, refixation, <br>vous pouvez faire appel à nos
