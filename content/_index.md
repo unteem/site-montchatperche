@@ -18,7 +18,7 @@ services:
 
       * Ancrage (étude, pose, dépose, accompagnement de personnel intervenant)
 
-      * Mesures conservatoires : une action immédiate pour les premières
+      * Mesure conservatoire : une action immédiate pour les premières
       réparations
     gallery:
       - image: /images/new/securite-1.JPG
@@ -32,7 +32,7 @@ services:
       l’origine des infiltrations ?
 
       Spécialistes de la recherche de fuite en toiture et façade, nos techniques
-      de cordes nous permettent de vous proposer un état des lieux complets avec
+      de cordes nous permettent de vous proposer un état des lieux complet avec
       réalisation de mesures conservatoires immédiates.
 
 
@@ -43,7 +43,7 @@ services:
 
       * Recherche de fuite avec traceur
 
-      * Sondages destructifs
+      * Sondage destructif
 
       * Hygrométrie
 
@@ -58,11 +58,11 @@ services:
       - image: /images/new/fuite-1.JPG
       - image: /images/new/fuite-2.JPG
     identifier: fuite
-    name: Recherche de fuites
+    name: Recherche de fuite
     thumbnail: /images/new/fuite-hex.JPG
   - details: >-
       ## Un tuyau s’est déboîté, est tombé au sol ? <br>Vous avez constaté un défaut
-      sur les chéneaux , gouttières, ou vous constatez un ruissellement excessif
+      sur les chéneaux, gouttières, ou vous constatez un ruissellement excessif
       des eaux pluviales ?
 
 
@@ -92,7 +92,7 @@ services:
 
       * Noquet / Redan et noues  
 
-      * Couvertine : protection tête de mur/boiseries/acrotère toiture   
+      * Couvertine : protection tête de mur / boiseries / acrotère toiture   
 
       * Fenêtre de toit  
 
@@ -107,9 +107,9 @@ services:
     name: Zinguerie
     thumbnail: /images/new/zinguerie-hex.JPG
   - details: >-
-     ## En toiture et en façade, nous accédons, diagnostiquons et réparons : mesures conservatoires après recherche de fuite en zone inaccessible et réparation d’urgence.
+     ## En toiture et en façade, nous accédons, diagnostiquons et réparons : mesures conservatoires après recherche de fuite en zone inaccessible et réparations d’urgence.
 
-      * Maçonnerie /Ragréage
+      * Maçonnerie / Ragréage
       * Blocage de fond
       * Conduit de cheminée
       * Verrière
@@ -137,13 +137,11 @@ services:
 
   * Nettoyage vitraux / verrière
 
-  * Rédaction rapport
+  * Rédaction rapport et photos
 
-  * Photos
+  * Préconisations
 
-  * Préconisation
-
-  * Réparation
+  * Réparations
 
   * *Contrat Annuel / Contrat Semestriel / Ponctuel*"
     gallery:
