@@ -23,6 +23,11 @@
 
   }
 
+.mail a {
+  text-decoration: none;
+  border-bottom: dotted 0px;
+}
+
 .is-rounded {
     border-radius: 25px;
 }
