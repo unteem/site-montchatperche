@@ -17,33 +17,33 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image (taille de l'image ratio 1/2)", name: "image", widget: "image"}
       - {label: "Description (ce qui apparait sur la page principale)", name: "description", widget: "text"}
       - {label: "Contenu de l'article", name: "body", widget: "markdown"}
-#  - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
-#    label: "Pages" # Used in the UI, ie.: "New Post"
-#    files:
-#      - file: "content/_index.md" # The path to the folder where the documents are stored
-#        name: "Acccueil"
-#        label: "Accueil"
-#        fields:
-#          - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-#          - {label: "Sous-titre", name: "subtitle", widget: "string"}
-#          - label: "Services"
-#            name: "services"
-#            widget: "list"
-#            fields:
-#              - {label: "Nom", name: "name", widget: "string"}
-#              - {label: "Details", name: "details", widget: "markdown"}
-#              - {label: "Thumbnail", name: "thumbnail", widget: "image"}
-#              - {label: "Identifiant", name: "identifier", widget: "string"}
-#              - label: "Gallerie"
-#                name: "gallery"
-#                widget: list
-#                fields:
-#                  - {label: "image", name: "image", widget: "image"}
-#          - {label: "Mission", name: "mission", widget: "list", fields: [
-#              {label: "Nom", name: "name", widget: "string"},
-#              {label: "Details", name: "details", widget: "markdown"},
-#              {label: "Picto", name: "picto", widget: "string"}]}
-#          - {label: "Equipe", name: "team", widget: "list", fields: [
-#              {label: "Nom", name: "name", widget: "string"},
-#              {label: "Details", name: "details", widget: "markdown"},
-#              {label: "Image", name: "image", widget: "image"}]}
+  - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pages" # Used in the UI, ie.: "New Post"
+    files:
+      - file: "content/_index.md" # The path to the folder where the documents are stored
+        name: "Acccueil"
+        label: "Accueil"
+        fields:
+          - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+          - {label: "Sous-titre", name: "subtitle", widget: "string"}
+          - label: "Services"
+            name: "services"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "name", widget: "string"}
+              - {label: "Details", name: "details", widget: "markdown"}
+              - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+              - {label: "Identifiant", name: "identifier", widget: "string"}
+              - label: "Gallerie"
+                name: "gallery"
+                widget: list
+                fields:
+                  - {label: "image", name: "image", widget: "image"}
+          - {label: "Mission", name: "mission", widget: "list", fields: [
+              {label: "Nom", name: "name", widget: "string"},
+              {label: "Details", name: "details", widget: "markdown"},
+              {label: "Picto", name: "picto", widget: "string"}]}
+          - {label: "Equipe", name: "team", widget: "list", fields: [
+              {label: "Nom", name: "name", widget: "string"},
+              {label: "Details", name: "details", widget: "markdown"},
+              {label: "Image", name: "image", widget: "image"}]}
