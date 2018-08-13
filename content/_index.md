@@ -1,12 +1,11 @@
 ---
 title: Montchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
-actus: "no active"
 services:
   - details: >-
-      ## Dépose, enlèvement, réparation, refixation, <br>vous pouvez faire appel à nos
-      services pour la sécurisation d’urgence en cas de risque de chute d’objets
-      et/ou de personnes.
+      ## Dépose, enlèvement, réparation, refixation, <br>vous pouvez faire appel
+      à nos services pour la sécurisation d’urgence en cas de risque de chute
+      d’objets et/ou de personnes.
 
       * Pierre agrafée et parement de façade, forget et éléments bois
 
@@ -61,9 +60,9 @@ services:
     name: Recherche de fuite
     thumbnail: /images/new/fuite-hex.JPG
   - details: >-
-      ## Un tuyau s’est déboîté, est tombé au sol ? <br>Vous avez constaté un défaut
-      sur les chéneaux, gouttières, ou vous constatez un ruissellement excessif
-      des eaux pluviales ?
+      ## Un tuyau s’est déboîté, est tombé au sol ? <br>Vous avez constaté un
+      défaut sur les chéneaux, gouttières, ou vous constatez un ruissellement
+      excessif des eaux pluviales ?
 
 
       Notre équipe est à votre service pour :
@@ -99,7 +98,6 @@ services:
       * Ouvrant / Dormant  
 
       * Trappe d’accès / Skydome / Coupole  
-
     gallery:
       - image: /images/new/zinguerie-1.JPG
       - image: /images/new/zinguerie-2.JPG
@@ -107,43 +105,47 @@ services:
     name: Zinguerie
     thumbnail: /images/new/zinguerie-hex.JPG
   - details: >-
-     ## En toiture et en façade, nous accédons, diagnostiquons et réparons : mesures conservatoires après recherche de fuite en zone inaccessible et réparations d’urgence.
+      ## En toiture et en façade, nous accédons, diagnostiquons et réparons :
+      mesures conservatoires après recherche de fuite en zone inaccessible et
+      réparations d’urgence.
 
-      * Maçonnerie / Ragréage
-      * Blocage de fond
-      * Conduit de cheminée
-      * Verrière
-      * Reprise partielle
-      * Mesure conservatoire
-      * Etanchéité
-      * Intervention d’urgence et/ou étude pour devis
+       * Maçonnerie / Ragréage
+       * Blocage de fond
+       * Conduit de cheminée
+       * Verrière
+       * Reprise partielle
+       * Mesure conservatoire
+       * Etanchéité
+       * Intervention d’urgence et/ou étude pour devis
     gallery:
       - image: /images/new/reparation-1.JPG
       - image: /images/new/reparation-2.JPG
     identifier: reparation
     name: Travaux de réparation
     thumbnail: /images/new/reparation-hex.JPG
+  - details: >-
+      ##  Un passage régulier en toiture favorise le prolongement de bon état du
+      bâti. Il limite le risque d’infiltration lié aux fuites par débordement ou
+      obstruction des évacuations.
 
-  - details: "##  Un passage régulier en toiture favorise le prolongement de bon état du bâti. Il limite le risque d’infiltration lié aux fuites par débordement ou obstruction des évacuations.
 
+      * Toiture terrasse
 
-  * Toiture terrasse
+      * Toiture graviers
 
-  * Toiture graviers
+      * Toiture végétalisée
 
-  * Toiture végétalisée
+      * Toiture tuiles
 
-  * Toiture tuiles
+      * Nettoyage vitraux / verrière
 
-  * Nettoyage vitraux / verrière
+      * Rédaction rapport et photos
 
-  * Rédaction rapport et photos
+      * Préconisations
 
-  * Préconisations
+      * Réparations
 
-  * Réparations
-
-  * *Contrat Annuel / Contrat Semestriel / Ponctuel*"
+      * *Contrat Annuel / Contrat Semestriel / Ponctuel*
     gallery:
       - image: /images/new/toiture-1.JPG
       - image: /images/new/toiture-2.JPG
@@ -151,7 +153,9 @@ services:
     name: Entretien Toiture
     thumbnail: /images/new/toiture-hex.JPG
   - details: >-
-      ## Pour faciliter la cohabitation entre les oiseaux et les habitants, nous étudions leur comportement sur site en fonction de la configuration du bâti. Nous vous préconisons une ou plusieurs solutions combinées.
+      ## Pour faciliter la cohabitation entre les oiseaux et les habitants, nous
+      étudions leur comportement sur site en fonction de la configuration du
+      bâti. Nous vous préconisons une ou plusieurs solutions combinées.
 
       * Protection du bâti
 
@@ -172,24 +176,19 @@ services:
     identifier: volatile
     name: Dispositif anti-volatile
     thumbnail: /images/new/volatile-hex.JPG
-  - details: "
-  * Accompagnement / Encadrement
-
-  * Conseil en solution de sécurisation
-
-  * Ancrage mécanique / scellement chimique
-
-  * Evénementiel
-
-  * Support technique
-
-  * Patrimoine
-
-  * Travaux spéciaux"
+  - details: |2-
+       * Accompagnement / Encadrement
+      * Conseil en solution de sécurisation
+      * Ancrage mécanique / scellement chimique
+      * Evénementiel
+      * Support technique
+      * Patrimoine
+      * Travaux spéciaux
     gallery:
       - image: /images/new/surmesure-1.JPG
       - image: /images/new/surmesure-2.JPG
     identifier: surmesure
-    name: événementiel Sur mesure
+    name: événementiel sur mesure
     thumbnail: /images/new/surmesure-hex.JPG
 ---
+
