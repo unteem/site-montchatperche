@@ -1,5 +1,5 @@
 ---
-title: Monchat Perché
+title: Montchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
 actus: "no active"
 services:
