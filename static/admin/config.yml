@@ -37,13 +37,3 @@ collections: # A list of collections the CMS should be able to edit
               - label: "Gallerie"
                 name: "gallery"
                 widget: list
-                fields:
-                  - {label: "image", name: "image", widget: "image"}
-          - {label: "Mission", name: "mission", widget: "list", fields: [
-              {label: "Nom", name: "name", widget: "string"},
-              {label: "Details", name: "details", widget: "markdown"},
-              {label: "Picto", name: "picto", widget: "string"}]}
-          - {label: "Equipe", name: "team", widget: "list", fields: [
-              {label: "Nom", name: "name", widget: "string"},
-              {label: "Details", name: "details", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}]}
