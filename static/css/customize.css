@@ -8,6 +8,9 @@
 #navbar-pages {
     background-color: #117197;
 }
+ a:hover {
+   cursor: pointer;
+ }
 
 .image-article img {
     width: 900px;

@@ -3,8 +3,8 @@
             {{ range .Params.services }}
             <li class="hex">
                 <div class="hexIn">
-                    <div class="hexLink" href="#">
-                            <img src="{{ .thumbnail }}" alt="" />
+                    <div class="hexLink">
+                            <img src="{{ .thumbnail }}" alt="{{ .name }}" />
                     </div>
                 </div>
             </li>
