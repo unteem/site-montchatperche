@@ -209,6 +209,11 @@
     display: none;
 }
 
+.lyonnavbar {
+    text-align: right;
+        
+}
+
 .navbar-menu {
     background-color: #117197;
 }

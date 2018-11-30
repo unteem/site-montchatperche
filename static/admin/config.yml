@@ -13,8 +13,9 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Titre (obligatoire)", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Slug (obligatoire)", name: "slug", widget: "string", tagname: "slug"}
       - {label: "Sous-titre", name: "subtitle", widget: "string", required: false}
-      - {label: "Image page d'accueil (taille de l'image ratio 1/2) (obligé)", name: "image", widget: "image"}
+      - {label: "Image page d'accueil (taille de l'image ratio 1/2) (obligatoire)", name: "image", widget: "image"}
       - {label: "Image de l'article", name: "imagearticle", widget: "image", required: false}
       - {label: "Description page d'accueil (obligatoire)", name: "description", widget: "text"}
       - {label: "Contenu de l'article", name: "body", widget: "markdown", required: false}
