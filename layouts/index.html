@@ -11,9 +11,7 @@
 
 	{{ partial "service.html" . }}
 	{{ partial "engagement.html" . }}
-	{{ if eq .Params.actus "active" }}
 	{{ partial "actu.html" . }}
-	{{ end }}
 	{{ partial "equipe.html" . }}
 </div>
 	{{ partial "footer.html" . }}
