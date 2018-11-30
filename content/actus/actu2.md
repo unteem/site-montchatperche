@@ -1,8 +1,9 @@
 ---
-title: Autre titre
-subtitle: mon petit soustitre qui va bien
-slug: titre-lala
-image: /images/test-header.jpg
-imagearticle: /images/new/triporteur.jpg
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat iaculis nibh, sit amet imperdiet elit porttitor in."
+title: REVUE DE PRESSE - LE PROGRES
+subtitle: Publication du 31/08/2018 éditions LYON-VILLEURBANNE
+image: /images/actu-site-progres.jpg
+imagearticle: /images/article-31-08.jpg
+description: |-
+  Intervention pour pose de bâche en façade de l'église Sainte Madeleine.
 ---
+
