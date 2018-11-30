@@ -701,6 +701,27 @@ color: rgba(255, 255, 255, 0.8) !important;
   }
 }
 
+.modal-card-subtitle {
+  margin-bottom: 0;
+  margin-top: 0rem;
+  font-weight: 400;
+  text-transform: none;
+  color: #6e6e6e;
+  line-height: 2rem;
+}
+
+@media screen and (max-width: 980px) {
+  .modal-card-subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .modal-card-subtitle {
+    font-size: 2.1rem;
+  }
+}
+
 .modal-card-title {
   margin-bottom: 0;
   margin-top: 2rem;

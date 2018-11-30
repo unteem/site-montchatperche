@@ -1,7 +1,9 @@
 ---
 title: Mon Titre très très très long qui raconte pleins de choses sur Montchat perché
+subtitle: mon petit sous titre qui va bien et qui est un peu long aussi la la la
 slug: mon-titre
 image: /images/new/triporteur.jpg
+imagearticle: /images/new/triporteur.jpg
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat iaculis nibh, sit amet imperdiet elit porttitor in."
 ---
 
