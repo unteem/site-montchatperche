@@ -1,5 +1,6 @@
 ---
 title: Premier anniversaire du triporteur
+slug: anniv
 subtitle: Juin 2018 - première bougie
 image: /images/pb150003.jpg
 imagearticle: /images/p2270013.jpg
