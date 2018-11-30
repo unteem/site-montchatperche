@@ -1,6 +1,7 @@
 ---
 title: Montchat Perché
 subtitle: Travaux Acrobatiques <br> travaux en hauteur
+localisation: Lyon
 services:
   - details: >-
       ## Dépose, enlèvement, réparation, refixation, <br>vous pouvez faire appel
@@ -191,4 +192,3 @@ services:
     name: événementiel sur mesure
     thumbnail: /images/new/surmesure-hex.JPG
 ---
-
