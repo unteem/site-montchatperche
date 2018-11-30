@@ -712,13 +712,13 @@ color: rgba(255, 255, 255, 0.8) !important;
 
 @media screen and (max-width: 980px) {
   .modal-card-subtitle {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
 
 @media screen and (min-width: 980px) {
   .modal-card-subtitle {
-    font-size: 2.1rem;
+    font-size: 1.4rem;
   }
 }
 

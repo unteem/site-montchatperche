@@ -38,3 +38,5 @@ collections: # A list of collections the CMS should be able to edit
               - label: "Gallerie"
                 name: "gallery"
                 widget: list
+
+publish_mode: editorial_workflow
