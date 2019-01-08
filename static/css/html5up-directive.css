@@ -2492,7 +2492,7 @@
 
 		#header:after {
 			bottom: 0;
-			height: 50px;
+			height: 0px;
 		}
 
 		#header a {
@@ -2545,7 +2545,6 @@
 		#header h1 {
 			font-size: 2.5em;
 			margin: 0;
-			padding-top: 8rem;
 		}
 
 		#header p {
