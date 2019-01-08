@@ -93,6 +93,10 @@
   margin-top: 23rem;
 }
 
+.header-h2 {
+  margin-bottom: 0rem;
+}
+
 @media screen and (max-width: 736px) {
 
   .header-text {
