@@ -90,7 +90,14 @@
 }
 
 .header-text {
-  margin-top: 6rem;
+  margin-top: 8rem;
+}
+
+@media screen and (max-width: 736px) {
+
+  .header-text {
+    margin-top: 0rem;
+  }
 }
 
 .section-services {
