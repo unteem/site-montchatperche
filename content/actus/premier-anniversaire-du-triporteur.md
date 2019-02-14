@@ -2,7 +2,7 @@
 title: Rendez-vous au salon Primevère !
 slug: événement
 subtitle: Eurexpo - Pôle vélo hall principal - le 23/02 à 10h30
-image: /images/pb150003.jpg
+image: /images/affiche_primevere2019_web.jpg
 imagearticle: /images/p2270013.jpg
 description: >-
   Les membres des BAV lyon sont invités à Eurexpo le samedi 23 février pour
