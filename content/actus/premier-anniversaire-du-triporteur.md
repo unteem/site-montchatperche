@@ -1,15 +1,18 @@
 ---
-title: Rendez-vous au salon Primevère !
-slug: événement
-subtitle: Eurexpo - Pôle vélo hall principal - le 23/02 à 10h30
-image: /images/affiche_primevere2019_web.jpg
-imagearticle: /images/p2270013.jpg
+title: 'Notre nouveau vélo : le biporteur !'
+slug: Déplacement
+subtitle: 'Après le triporteur, un nouveau venu dans la flotte véhicule.'
+image: /images/thumbnail48.jpg
+imagearticle: /images/logo-bav-web.png
 description: >-
-  Les membres des BAV lyon sont invités à Eurexpo le samedi 23 février pour
-  présenter leurs bi-porteur, triporteur et autres vélos cargo.
+  Toujours dans l'élan vélo, Montchat Perché, roule à présent, aussi en
+  biporteur !
+
+  Comment faciliter les déplacements/stationnements dans l'agglomération et (un
+  peu) au-delà grâce à l'assistance électrique : démonstration en deux roues !
 ---
-Accompagnés des membres des BAV Lyon (Boîtes à Vélo - association loi 1901 - regroupement d'entrepreneurs à vélo), Paul et Emilie présenteront leur utilisation et la place du vélo dans leur activité. 
+Paul est trésorier de l'association Les Boîtes à vélo - Lyon Métropole, et il croise régulièrement des collègues de l'asso sur les pistes cyclables, lors de ses déplacements dans l'agglomération.
 
-Réactivité et facilité de stationnement en tête, les avantages sont nombreux. Une présentation aura lieu à 10h30 (durée 1/2 heure env.) dans le hall central au pôle vélo. L'occasion de présenter les différentes expériences de chacun (conversion voiture vélo, adaptation matériel et trajets...) et d'ouvrir la discussion avec les visiteurs dans un échange question/réponse.
+Après l'achat d'un triporteur, le choix des cordistes de Montchat Perché s'est porté sur un bi-porteur, un bon complément pour partir en intervention en binôme, avec le matériel.
 
-Rendez-vous samedi 23 février !
+L'assistance électrique permet de repousser progressivement les limites géographiques, prioritairement pour les rendez-vous mais aussi lors de la réalisation des interventions, quand la nature des travaux le permet.
